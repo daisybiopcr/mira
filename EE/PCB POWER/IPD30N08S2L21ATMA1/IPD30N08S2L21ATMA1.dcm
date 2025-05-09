@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPD30N08S2L21ATMA1
+D 75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS
+K
+F https://www.infineon.com/dgdl/Infineon-IPD30N08S2L_21-DS-v01_00-en.pdf?fileId=db3a304412b407950112b426f6a33b23
+$ENDCMP
+#
+#End Doc Library

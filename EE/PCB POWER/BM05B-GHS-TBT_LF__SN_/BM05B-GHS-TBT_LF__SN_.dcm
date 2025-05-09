@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BM05B-GHS-TBT_LF__SN_
+D GH 1.25mm header top entry 5 way JST GH Series, 1.25mm Pitch 5 Way Shrouded Straight PCB Header, Surface Mount, Solder Termination
+K
+F https://th.mouser.com/datasheet/2/564/JST_BM05B_GHS_TBT_LF_SN_N_eGH-3483785.pdf
+$ENDCMP
+#
+#End Doc Library

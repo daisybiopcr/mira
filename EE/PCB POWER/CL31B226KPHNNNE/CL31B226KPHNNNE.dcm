@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL31B226KPHNNNE
+D 22F +/-10% 10V Ceramic Capacitor X7R 1206 (3216 Metric)
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf
+$ENDCMP
+#
+#End Doc Library

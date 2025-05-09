@@ -1,0 +1,70 @@
+PCBNEW-LibModule-V1  2025-05-08 03:26:51
+# encoding utf-8
+Units mm
+$INDEX
+BM05B-GHS-TBT
+$EndINDEX
+$MODULE BM05B-GHS-TBT
+Po 0 0 0 15 681c166b 00000000 ~~
+Li BM05B-GHS-TBT
+Cd BM05B-GHS-TBT
+Kw Connector
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 0 0 1.27 1.27 0 0.254 N V 21 N "J**"
+T1 0 0 1.27 1.27 0 0.254 N I 21 N "BM05B-GHS-TBT"
+DS -7.3 4.4 2.3 4.4 0.2 24
+DS 2.3 4.4 2.3 0.2 0.2 24
+DS 2.3 0.2 -7.3 0.2 0.2 24
+DS -7.3 0.2 -7.3 4.4 0.2 24
+DS -7.3 0.2 -5.7 0.2 0.1 21
+DS -7.3 0.2 -7.3 1.6 0.1 21
+DS 2.3 0.2 0.7 0.2 0.1 21
+DS 2.3 0.2 2.3 1.6 0.1 21
+DS -5.9 4.4 0.9 4.4 0.1 21
+$PAD
+Po 0 0
+Sh "1" R 0.6 1.7 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.25 0
+Sh "2" R 0.6 1.7 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -2.5 0
+Sh "3" R 0.6 1.7 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -3.75 0
+Sh "4" R 0.6 1.7 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -5 0
+Sh "5" R 0.6 1.7 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 1.85 3.35
+Sh "6" R 1 2.8 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -6.85 3.35
+Sh "7" R 1 2.8 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE BM05B-GHS-TBT
+$EndLIBRARY

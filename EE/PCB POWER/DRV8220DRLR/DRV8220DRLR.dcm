@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8220DRLR
+D DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode
+K
+F https://www.ti.com/lit/ds/symlink/drv8220.pdf?ts=1631525955787&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+#End Doc Library

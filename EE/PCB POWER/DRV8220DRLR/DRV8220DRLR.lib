@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DRV8220DRLR
+#/15089288/726761/2.50/6/2/Integrated Circuit
+DEF DRV8220DRLR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "DRV8220DRLR" 950 200 50 H V L CNN
+F2 "SOTFL50P160X60-6N" 950 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/drv8220.pdf?ts=1631525955787&ref_url=https%253A%252F%252Fwww.google.com%252F" 950 0 50 H I L CNN
+F4 "DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode" 950 -100 50 H I L CNN "Description"
+F5 "0.6" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DRV8220DRLR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-DRV8220DRLR" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8220DRLR?qs=A6eO%252BMLsxmTbgRMs5Sh%2FhA%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "DRV8220DRLR" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/drv8220drlr/texas-instruments?utm_currency=USD&region=europe" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X IN1 1 0 0 200 R 50 50 0 0 P
+X IN2 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X OUT2 4 1100 -200 200 L 50 50 0 0 P
+X VM 5 1100 -100 200 L 50 50 0 0 P
+X OUT1 6 1100 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

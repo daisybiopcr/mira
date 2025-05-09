@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK34A-LTP
+D Diode 40 V 3A Surface Mount DO-214AC (SMA)
+K
+F https://mccsemi.com/pdf/Products/SK32A-L-SK310A-L(DO-214AC).pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T1M-05-F-SV-L-P
+D 5 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical
+K
+F http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf
+$ENDCMP
+#
+#End Doc Library
