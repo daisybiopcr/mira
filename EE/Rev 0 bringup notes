@@ -1,0 +1,13 @@
+PCR MACHINE
+
+POWER PCB BRINGUP NOTES
+
+blower turned on during power on
+	need pulldowns on inputs to U1 (2x 10k)
+probably could also use pulldowns on the outputs of U1
+When connecting the UI board to PWR header, realized that the PWR connector was reversed.
+	Flip PWR connector on POWER PCB
+	Make a standard: pin 1 = GND for power connectors
+Let's label GND and +12V on the power input
+Let's put labels for the testpoints, if we are going to have testpoints, or can just remove them
+slowed down because of bent pin on tiny power connector - move to bigger cheaper connectors
