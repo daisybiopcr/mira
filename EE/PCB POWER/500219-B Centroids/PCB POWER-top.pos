@@ -1,0 +1,29 @@
+### Module positions - created on Sun Jan 14 12:44:20 2024 ###
+### Printed by Pcbnew version (6.0.1)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                                 PosX       PosY       Rot  Side
+C1        0.1_uF              C_0805_2012Metric                   131.1500  -138.2800   90.0000  top
+C2        10uF                C_0805_2012Metric                    67.5100   -76.7100    0.0000  top
+C3        .1_uF               C_0805_2012Metric                   121.4500  -116.5200   90.0000  top
+C4        10uF                C_0805_2012Metric                    67.5400   -72.6500    0.0000  top
+C5        4.7_uF              C_0805_2012Metric                   124.0900  -116.5000   90.0000  top
+C6        1000_pF             C_0805_2012Metric                   118.6300  -116.5400   90.0000  top
+C7        1000_pF             C_0805_2012Metric                   126.6900  -116.4500   90.0000  top
+C8        22uF                C_0805_2012Metric                   131.4200   -81.1000  -90.0000  top
+D1        SK34A-LTP           DIOM5226X244N                        66.7400  -109.1800   90.0000  top
+IC1       DRV8220DRLR         SOTFL50P160X60-6N                   128.4900  -132.5700    0.0000  top
+J1        1752104             SHDR2W90P0X350_1X2_760X1000X1255P    62.3050   -84.0950    0.0000  top
+J2        T1M-02-F-SV-L       T1M02FSVL                           123.0000  -134.9700    0.0000  top
+J3        T1M-02-F-SV-L       T1M02FSVL                            97.1300   -65.6000  180.0000  top
+J4        T1M-02-F-SV-L       T1M02FSVL                           137.0200  -112.3300   90.0000  top
+J5        T1M-05-F-SV-L       T1M05FSVL                           130.3100  -124.8700    0.0000  top
+J6        T1M-02-F-SV-L       T1M02FSVL                           103.8000   -65.5700  180.0000  top
+J7        T1M-02-F-SV-L       T1M02FSVL                           136.9400  -119.2600   90.0000  top
+Q1        IPD30N08S2L21ATMA1  IPD30N08S2L21ATMA1                   76.9700  -123.7800    0.0000  top
+Q2        IPD30N08S2L21ATMA1  IPD30N08S2L21ATMA1                   82.9000   -69.7500    0.0000  top
+U1        MIC4427YM-TR        SOIC127P599X173-8N                  120.2000  -122.8400   90.0000  top
+U2        742792510           18122                                73.0400   -74.8900   90.0000  top
+U3        RPM5.0-6.0          Converter_DCDC_RECOM_RPMx.x-x.0     115.3700   -67.1700    0.0000  top
+U4        7427932             7427932                             126.1300   -78.1100   90.0000  top
+## End

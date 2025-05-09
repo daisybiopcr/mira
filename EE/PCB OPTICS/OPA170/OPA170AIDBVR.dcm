@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA170AIDBVR
+D 36V, microPower, Rail-to-Rail Output, General Purpose Op Amp in MicroPackages
+K
+F http://www.ti.com/lit/gpn/OPA170
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "7b75954d-2c3e-4d13-96a6-e7daf08b0dea")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 18.415 58.42)
+		(size 71.12 26.035)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1be10d22-f55c-4a17-b255-262816a2a184")
+		(property "Sheetname" "FLUORESCENCE DETECTION"
+			(at 18.415 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FLUORESCENCE DETECTION_sch.kicad_sch"
+			(at 18.415 85.0396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB OPTICS"
+				(path "/7b75954d-2c3e-4d13-96a6-e7daf08b0dea"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 18.415 19.685)
+		(size 71.12 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "29a443a8-fd2f-4852-996d-2f9bcef919ed")
+		(property "Sheetname" "LEDS DRIVER"
+			(at 18.415 18.9734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDS DRIVER.kicad_sch"
+			(at 18.415 48.2096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB OPTICS"
+				(path "/7b75954d-2c3e-4d13-96a6-e7daf08b0dea"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Tom Welsh\Documents\KiCad\PCBs\PCRlite\PCB POWER\PCB POWER.kicad_sch</source>
+    <date>1/13/2024 2:55:15 PM</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PCB POWER.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aff3e5f0-b929-40dc-bdaf-317a9087e2eb</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Reference_1">10uF +/-10%, 50V</field>
+      </fields>
+      <libsource lib="VJ1206Y106KXXTW1BC" part="VJ1206Y106KXXTW1BC" description="VISHAY - VJ1206Y106KXXTW1BC - CAP, MLCC, X7R, 10UF, 25V, 1206"/>
+      <property name="Reference_1" value="10uF +/-10%, 50V"/>
+      <property name="Value_1" value=""/>
+      <property name="Footprint_1" value=""/>
+      <property name="Datasheet_1" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf0964ba-0c4d-47d8-a076-8c4335fdba40</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Reference_1">.1 uF +/-10%, 25 V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Reference_1" value=".1 uF +/-10%, 25 V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fded3b74-86f9-4dc5-8aef-90c30843fb30</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Reference_1">10uF +/-10%, 50V</field>
+      </fields>
+      <libsource lib="VJ1206Y106KXXTW1BC" part="VJ1206Y106KXXTW1BC" description="VISHAY - VJ1206Y106KXXTW1BC - CAP, MLCC, X7R, 10UF, 25V, 1206"/>
+      <property name="Reference_1" value="10uF +/-10%, 50V"/>
+      <property name="Value_1" value=""/>
+      <property name="Footprint_1" value=""/>
+      <property name="Datasheet_1" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18de5067-5b81-4e45-922c-3bf5ba19d30c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4.7 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Reference_1">4.7 uF +/-10%, 25V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Reference_1" value="4.7 uF +/-10%, 25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e168947-c9f5-4650-931a-65b0927267eb</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1000 pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Reference_1">1000 pF +/-10%, 25 V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Reference_1" value="1000 pF +/-10%, 25 V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ecb495-aab1-495c-b8d7-4381106ba8f0</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1000 pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Reference_1">1000 pF +/- 10%, 25 V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Reference_1" value="1000 pF +/- 10%, 25 V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9f827dc-6ed0-4d4e-b1d6-f094dfb54d2a</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Reference_1">22uF +/-10%, 50V</field>
+      </fields>
+      <libsource lib="VJ1206Y226KXQTW1BC" part="VJ1206Y226KXQTW1BC" description="VISHAY - VJ1206Y226KXQTW1BC - CAP, 22F, 10V, 10%, X7R, 1206"/>
+      <property name="Reference_1" value="22uF +/-10%, 50V"/>
+      <property name="Value_1" value=""/>
+      <property name="Footprint_1" value=""/>
+      <property name="Datasheet_1" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0e2661c-e9a7-4e24-9333-74034d136047</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SK34A-LTP</value>
+      <footprint>SK34A-LTP:DIOM5226X244N</footprint>
+      <datasheet>https://www.mccsemi.com/pdf/Products/SK32A-L-SK310A-L(DO-214AC).pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SK34A-LTP</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sk34a-ltp/micro-commercial-components?region=asia</field>
+        <field name="Description">Schottky Diodes &amp; Rectifiers DIODE SCHOTTKY 40V 3A DO214AC</field>
+        <field name="Height">2.44</field>
+        <field name="Manufacturer_Name">MCC</field>
+        <field name="Manufacturer_Part_Number">SK34A-LTP</field>
+        <field name="Mouser Part Number">833-SK34A-LTP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/SK34A-LTP?qs=JeAkOuORR2VPwzg48d%252BVAA%3D%3D</field>
+      </fields>
+      <libsource lib="SK34A-LTP" part="SK34A-LTP" description="Schottky Diodes &amp; Rectifiers DIODE SCHOTTKY 40V 3A DO214AC"/>
+      <property name="Description" value="Schottky Diodes &amp; Rectifiers DIODE SCHOTTKY 40V 3A DO214AC"/>
+      <property name="Height" value="2.44"/>
+      <property name="Manufacturer_Name" value="MCC"/>
+      <property name="Manufacturer_Part_Number" value="SK34A-LTP"/>
+      <property name="Mouser Part Number" value="833-SK34A-LTP"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/SK34A-LTP?qs=JeAkOuORR2VPwzg48d%252BVAA%3D%3D"/>
+      <property name="Arrow Part Number" value="SK34A-LTP"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/sk34a-ltp/micro-commercial-components?region=asia"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0100b547-db6a-4283-be21-bb647597dc9a</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abc83c01-eac1-45cf-926b-35e6bf0c756b</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e484963-b269-42b3-9486-24df28465ede</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a47ca0f0-1272-4c92-81c6-223879630a80</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a06614c-9556-4fe1-915f-0d676dc9aaf7</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>DRV8220DRLR</value>
+      <footprint>DRV8220DRLR:SOTFL50P160X60-6N</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/drv8220.pdf?ts=1631525955787&amp;ref_url=https%253A%252F%252Fwww.google.com%252F</datasheet>
+      <fields>
+        <field name="Description">DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode</field>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">DRV8220DRLR</field>
+        <field name="Mouser Part Number">595-DRV8220DRLR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8220DRLR?qs=A6eO%252BMLsxmTbgRMs5Sh%2FhA%3D%3D</field>
+      </fields>
+      <libsource lib="DRV8220DRLR" part="DRV8220DRLR" description="DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode"/>
+      <property name="Description" value="DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode"/>
+      <property name="Height" value="0.6"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="DRV8220DRLR"/>
+      <property name="Mouser Part Number" value="595-DRV8220DRLR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8220DRLR?qs=A6eO%252BMLsxmTbgRMs5Sh%2FhA%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02cdf60d-3b11-410e-838c-6bd0db8a9ff0</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>1752104</value>
+      <footprint>1752104:SHDR2W90P0X350_1X2_760X1000X1255P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/eeae7e9f9b3a235c7d873ddf4da930cb.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">1752104</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1752104/phoenix-contact?region=nac</field>
+        <field name="Description">Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip</field>
+        <field name="Height">12.55</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1752104</field>
+        <field name="Mouser Part Number">651-1752104</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1752104?qs=Fz3yxlUjJZHh45xXQlykhw%3D%3D</field>
+      </fields>
+      <libsource lib="1752104" part="1752104" description="Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip"/>
+      <property name="Description" value="Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip"/>
+      <property name="Height" value="12.55"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1752104"/>
+      <property name="Mouser Part Number" value="651-1752104"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1752104?qs=Fz3yxlUjJZHh45xXQlykhw%3D%3D"/>
+      <property name="Arrow Part Number" value="1752104"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/1752104/phoenix-contact?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0df071ca-503c-47a8-aa48-54406ff64e04</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>T1M-02-F-SV-L</value>
+      <footprint>T1M-02-F-SV-L:T1M02FSVL</footprint>
+      <datasheet>http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">T1M-02-F-SV-L</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe</field>
+        <field name="Description">2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">T1M-02-F-SV-L</field>
+        <field name="Mouser Part Number">200-T1M02FSVL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D</field>
+      </fields>
+      <libsource lib="T1M-02-F-SV-L" part="T1M-02-F-SV-L" description="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Description" value="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="SAMTEC"/>
+      <property name="Manufacturer_Part_Number" value="T1M-02-F-SV-L"/>
+      <property name="Mouser Part Number" value="200-T1M02FSVL"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D"/>
+      <property name="Arrow Part Number" value="T1M-02-F-SV-L"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99bfc686-aa0a-4803-bd72-de1173b5a399</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>T1M-02-F-SV-L</value>
+      <footprint>T1M-02-F-SV-L:T1M02FSVL</footprint>
+      <datasheet>http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">T1M-02-F-SV-L</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe</field>
+        <field name="Description">2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">T1M-02-F-SV-L</field>
+        <field name="Mouser Part Number">200-T1M02FSVL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D</field>
+      </fields>
+      <libsource lib="T1M-02-F-SV-L" part="T1M-02-F-SV-L" description="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Description" value="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="SAMTEC"/>
+      <property name="Manufacturer_Part_Number" value="T1M-02-F-SV-L"/>
+      <property name="Mouser Part Number" value="200-T1M02FSVL"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D"/>
+      <property name="Arrow Part Number" value="T1M-02-F-SV-L"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2af45bfe-d454-4c0d-a796-64325ec7b25b</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>T1M-02-F-SV-L</value>
+      <footprint>T1M-02-F-SV-L:T1M02FSVL</footprint>
+      <datasheet>http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">T1M-02-F-SV-L</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe</field>
+        <field name="Description">2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">T1M-02-F-SV-L</field>
+        <field name="Mouser Part Number">200-T1M02FSVL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D</field>
+      </fields>
+      <libsource lib="T1M-02-F-SV-L" part="T1M-02-F-SV-L" description="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Description" value="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="SAMTEC"/>
+      <property name="Manufacturer_Part_Number" value="T1M-02-F-SV-L"/>
+      <property name="Mouser Part Number" value="200-T1M02FSVL"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D"/>
+      <property name="Arrow Part Number" value="T1M-02-F-SV-L"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d82e94f-012d-46af-82e6-1b21c9511b72</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>T1M-05-F-SV-L</value>
+      <footprint>T1M-05-F-SV-L:T1M05FSVL</footprint>
+      <datasheet>http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">T1M-05-F-SV-L</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/t1m-05-f-sv-l/samtec</field>
+        <field name="Description">5 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</field>
+        <field name="Height">5.5</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">T1M-05-F-SV-L</field>
+        <field name="Mouser Part Number">200-T1M05FSVL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=200-T1M05FSVL</field>
+      </fields>
+      <libsource lib="T1M-05-F-SV-L" part="T1M-05-F-SV-L" description="5 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Description" value="5 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Height" value="5.5"/>
+      <property name="Manufacturer_Name" value="SAMTEC"/>
+      <property name="Manufacturer_Part_Number" value="T1M-05-F-SV-L"/>
+      <property name="Mouser Part Number" value="200-T1M05FSVL"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=200-T1M05FSVL"/>
+      <property name="Arrow Part Number" value="T1M-05-F-SV-L"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/t1m-05-f-sv-l/samtec"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e26edb5e-b2f0-42a0-92d8-b5ef8f51ff40</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>T1M-02-F-SV-L</value>
+      <footprint>T1M-02-F-SV-L:T1M02FSVL</footprint>
+      <datasheet>http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">T1M-02-F-SV-L</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe</field>
+        <field name="Description">2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">T1M-02-F-SV-L</field>
+        <field name="Mouser Part Number">200-T1M02FSVL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D</field>
+      </fields>
+      <libsource lib="T1M-02-F-SV-L" part="T1M-02-F-SV-L" description="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Description" value="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="SAMTEC"/>
+      <property name="Manufacturer_Part_Number" value="T1M-02-F-SV-L"/>
+      <property name="Mouser Part Number" value="200-T1M02FSVL"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D"/>
+      <property name="Arrow Part Number" value="T1M-02-F-SV-L"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b49d15c-e622-486c-b752-eb35dd2cfa79</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>T1M-02-F-SV-L</value>
+      <footprint>T1M-02-F-SV-L:T1M02FSVL</footprint>
+      <datasheet>http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">T1M-02-F-SV-L</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe</field>
+        <field name="Description">2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">T1M-02-F-SV-L</field>
+        <field name="Mouser Part Number">200-T1M02FSVL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D</field>
+      </fields>
+      <libsource lib="T1M-02-F-SV-L" part="T1M-02-F-SV-L" description="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Description" value="2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="SAMTEC"/>
+      <property name="Manufacturer_Part_Number" value="T1M-02-F-SV-L"/>
+      <property name="Mouser Part Number" value="200-T1M02FSVL"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D"/>
+      <property name="Arrow Part Number" value="T1M-02-F-SV-L"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab39f338-3a97-473d-853b-10af11e7c323</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IPD30N08S2L21ATMA1</value>
+      <footprint>IPD30N08S2L-21:IPD30N08S2L21ATMA1</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IPD30N08S2L_21-DS-v01_00-en.pdf?fileId=db3a304412b407950112b426f6a33b23</datasheet>
+      <fields>
+        <field name="Arrow Part Number">IPD30N08S2L21ATMA1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ipd30n08s2l21atma1/infineon-technologies-ag</field>
+        <field name="Description">75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS</field>
+        <field name="Height">2.5</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IPD30N08S2L21ATMA1</field>
+        <field name="Mouser Part Number">726-IPD30N08S2L21ATM</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD30N08S2L21ATMA1?qs=OwbwYO03UsLjtivgYvUgnQ%3D%3D</field>
+      </fields>
+      <libsource lib="IPD30N08S2L21ATMA1" part="IPD30N08S2L21ATMA1" description="75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS"/>
+      <property name="Description" value="75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS"/>
+      <property name="Height" value="2.5"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IPD30N08S2L21ATMA1"/>
+      <property name="Mouser Part Number" value="726-IPD30N08S2L21ATM"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD30N08S2L21ATMA1?qs=OwbwYO03UsLjtivgYvUgnQ%3D%3D"/>
+      <property name="Arrow Part Number" value="IPD30N08S2L21ATMA1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ipd30n08s2l21atma1/infineon-technologies-ag"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>764944ff-9165-4bd4-a460-ef0fff82579c</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IPD30N08S2L21ATMA1</value>
+      <footprint>IPD30N08S2L-21:IPD30N08S2L21ATMA1</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IPD30N08S2L_21-DS-v01_00-en.pdf?fileId=db3a304412b407950112b426f6a33b23</datasheet>
+      <fields>
+        <field name="Arrow Part Number">IPD30N08S2L21ATMA1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ipd30n08s2l21atma1/infineon-technologies-ag</field>
+        <field name="Description">75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS</field>
+        <field name="Height">2.5</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IPD30N08S2L21ATMA1</field>
+        <field name="Mouser Part Number">726-IPD30N08S2L21ATM</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD30N08S2L21ATMA1?qs=OwbwYO03UsLjtivgYvUgnQ%3D%3D</field>
+      </fields>
+      <libsource lib="IPD30N08S2L21ATMA1" part="IPD30N08S2L21ATMA1" description="75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS"/>
+      <property name="Description" value="75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS"/>
+      <property name="Height" value="2.5"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IPD30N08S2L21ATMA1"/>
+      <property name="Mouser Part Number" value="726-IPD30N08S2L21ATM"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD30N08S2L21ATMA1?qs=OwbwYO03UsLjtivgYvUgnQ%3D%3D"/>
+      <property name="Arrow Part Number" value="IPD30N08S2L21ATMA1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ipd30n08s2l21atma1/infineon-technologies-ag"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>100ed1ca-b422-4cff-84c0-e25b70a28cde</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64233d9d-e997-454c-912d-64034e5cb203</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6306f0d-fc69-4aad-b687-6480337b6379</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b463aeaf-1a29-434a-80cb-2e7653379fb8</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bae4ba6-7029-427c-a020-e4267b86d07d</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d889d37-2183-4aff-815e-87e13ef36789</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f71826d8-34d8-4930-98c5-11e184143d2a</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cf2904d-c508-46ac-87b8-45d6a828feb8</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eec30733-7180-4acf-90b3-f857073251c5</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81662c76-920e-4a8a-ba27-de9bf666595d</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>110ef296-b31d-4f72-8a11-8f037fc9c32e</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62244797-a146-47b2-926d-9eed1f266579</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>372c31e6-ef9a-4ba7-9aef-20096462b84a</tstamps>
+    </comp>
+    <comp ref="TP13">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>613eb6a5-1fd8-419e-84b3-81c87e8b6b64</tstamps>
+    </comp>
+    <comp ref="TP14">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d10ed321-fe4a-4b2e-8c4a-eae42c56c9ad</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MIC4427YM-TR</value>
+      <footprint>MIC4427YM-TR:SOIC127P599X173-8N</footprint>
+      <fields>
+        <field name="Arrow Part Number">MIC4427YM-TR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mic4427ym-tr/microchip-technology?region=nac</field>
+        <field name="Datasheet_1">http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579187</field>
+        <field name="Footprint_1">SOIC127P599X173-8N</field>
+        <field name="Height">1.73</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MIC4427YM-TR</field>
+        <field name="Mouser Part Number">998-MIC4427YMTR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC4427YM-TR?qs=U6T8BxXiZAULm0GXl3dTfQ%3D%3D</field>
+        <field name="Reference_1">IC</field>
+        <field name="Value_1">MIC4427YM-TR</field>
+      </fields>
+      <libsource lib="MIC4427YM-TR" part="MIC4427YM-TR" description="Gate Drivers 1.5A Dual High Speed MOSFET Driver"/>
+      <property name="Reference_1" value="IC"/>
+      <property name="Value_1" value="MIC4427YM-TR"/>
+      <property name="Footprint_1" value="SOIC127P599X173-8N"/>
+      <property name="Datasheet_1" value="http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579187"/>
+      <property name="Height" value="1.73"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="MIC4427YM-TR"/>
+      <property name="Mouser Part Number" value="998-MIC4427YMTR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC4427YM-TR?qs=U6T8BxXiZAULm0GXl3dTfQ%3D%3D"/>
+      <property name="Arrow Part Number" value="MIC4427YM-TR"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/mic4427ym-tr/microchip-technology?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dc4bd68-b812-4fca-b3bf-b62f08565ac8</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>742792510</value>
+      <footprint>742792510:18122</footprint>
+      <datasheet>https://4donline.ihs.com/images/VipMasterIC/IC/MIDC/MIDC-S-A0013715343/MIDC-S-A0013795848-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0</datasheet>
+      <fields>
+        <field name="Footprint_1">18122</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">742792510</field>
+        <field name="Mouser Part Number">710-742792510</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/742792510?qs=5twSNpOB8IABB9Afmrmq3A%3D%3D</field>
+        <field name="Reference_1">L</field>
+        <field name="Value_1">742792510</field>
+      </fields>
+      <libsource lib="742792510" part="742792510" description="SMD EMI Suppression Ferrite Beads WE-CBF"/>
+      <property name="Reference_1" value="L"/>
+      <property name="Value_1" value="742792510"/>
+      <property name="Footprint_1" value="18122"/>
+      <property name="Datasheet_1" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="742792510"/>
+      <property name="Mouser Part Number" value="710-742792510"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/742792510?qs=5twSNpOB8IABB9Afmrmq3A%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46975e95-d03f-4436-a480-7dbdb1c325f2</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>RPM5.0-6.0</value>
+      <footprint>Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0</footprint>
+      <datasheet>https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf</datasheet>
+      <libsource lib="Converter_DCDC" part="RPM5.0-6.0" description="6A non-isolated switching regulator power module, 4-15V input voltage, 5.0V output voltage, DOSA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f53ecac4-2107-472b-be44-e47b0e07ab06</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>7427932</value>
+      <footprint>7427932:7427932</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/7427932.pdf</datasheet>
+      <fields>
+        <field name="Datasheet_1">https://componentsearchengine.com/Datasheets/2/7427932.pdf</field>
+        <field name="Footprint_1">7427932</field>
+        <field name="Height">3.15</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">7427932</field>
+        <field name="Mouser Part Number">710-7427932</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/7427932?qs=E%2F%2FhvbtCqpMraVkI3KrIPA%3D%3D</field>
+        <field name="Reference_1">FB</field>
+        <field name="Value_1">7427932</field>
+      </fields>
+      <libsource lib="7427932" part="7427932" description="SMD EMI Suppression Ferrite Beads WE-PBF"/>
+      <property name="Reference_1" value="FB"/>
+      <property name="Value_1" value="7427932"/>
+      <property name="Footprint_1" value="7427932"/>
+      <property name="Datasheet_1" value="https://componentsearchengine.com/Datasheets/2/7427932.pdf"/>
+      <property name="Height" value="3.15"/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="7427932"/>
+      <property name="Mouser Part Number" value="710-7427932"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/7427932?qs=E%2F%2FhvbtCqpMraVkI3KrIPA%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB POWER.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>267a5d9f-598d-47ff-aeb1-aac0ef100577</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="1752104" part="1752104">
+      <description>Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/eeae7e9f9b3a235c7d873ddf4da930cb.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1752104</field>
+        <field name="Footprint">SHDR2W90P0X350_1X2_760X1000X1255P</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/eeae7e9f9b3a235c7d873ddf4da930cb.pdf</field>
+        <field name="Description">Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip</field>
+        <field name="Height">12.55</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1752104</field>
+        <field name="Mouser Part Number">651-1752104</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1752104?qs=Fz3yxlUjJZHh45xXQlykhw%3D%3D</field>
+        <field name="Arrow Part Number">1752104</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1752104/phoenix-contact?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="742792510" part="742792510">
+      <description>SMD EMI Suppression Ferrite Beads WE-CBF</description>
+      <fields>
+        <field name="Value">742792510</field>
+        <field name="Reference_1">L</field>
+        <field name="Value_1">742792510</field>
+        <field name="Footprint_1">18122</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">742792510</field>
+        <field name="Mouser Part Number">710-742792510</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/742792510?qs=5twSNpOB8IABB9Afmrmq3A%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="7427932" part="7427932">
+      <description>SMD EMI Suppression Ferrite Beads WE-PBF</description>
+      <fields>
+        <field name="Value">7427932</field>
+        <field name="Reference_1">FB</field>
+        <field name="Value_1">7427932</field>
+        <field name="Footprint_1">7427932</field>
+        <field name="Datasheet_1">https://componentsearchengine.com/Datasheets/2/7427932.pdf</field>
+        <field name="Height">3.15</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">7427932</field>
+        <field name="Mouser Part Number">710-7427932</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/7427932?qs=E%2F%2FhvbtCqpMraVkI3KrIPA%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Converter_DCDC" part="RPM5.0-6.0">
+      <description>6A non-isolated switching regulator power module, 4-15V input voltage, 5.0V output voltage, DOSA</description>
+      <docs>https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf</docs>
+      <footprints>
+        <fp>Converter*DCDC*RECOM*RPM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RPM5.0-6.0</field>
+        <field name="Footprint">Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0</field>
+        <field name="Datasheet">https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="+VIN" type="power_in"/>
+        <pin num="A2" name="+VIN" type="passive"/>
+        <pin num="A3" name="GND" type="power_in"/>
+        <pin num="A4" name="GND" type="passive"/>
+        <pin num="A5" name="+VOUT" type="power_out"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B2" name="GND" type="passive"/>
+        <pin num="B3" name="GND" type="passive"/>
+        <pin num="B4" name="GND" type="passive"/>
+        <pin num="B5" name="+VOUT" type="passive"/>
+        <pin num="C1" name="CTRL" type="input"/>
+        <pin num="C2" name="GND" type="passive"/>
+        <pin num="C3" name="GND" type="passive"/>
+        <pin num="C4" name="GND" type="passive"/>
+        <pin num="C5" name="Sense" type="input"/>
+        <pin num="D1" name="PGood" type="output"/>
+        <pin num="D2" name="GND" type="passive"/>
+        <pin num="D3" name="GND" type="passive"/>
+        <pin num="D4" name="GND" type="passive"/>
+        <pin num="D5" name="GND" type="passive"/>
+        <pin num="E1" name="SEQ" type="passive"/>
+        <pin num="E2" name="NC" type="no_connect"/>
+        <pin num="E3" name="GND" type="passive"/>
+        <pin num="E4" name="GND" type="passive"/>
+        <pin num="E5" name="Trim" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="DRV8220DRLR" part="DRV8220DRLR">
+      <description>DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode</description>
+      <docs>https://www.ti.com/lit/ds/symlink/drv8220.pdf?ts=1631525955787&amp;ref_url=https%253A%252F%252Fwww.google.com%252F</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">DRV8220DRLR</field>
+        <field name="Footprint">SOTFL50P160X60-6N</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/drv8220.pdf?ts=1631525955787&amp;ref_url=https%253A%252F%252Fwww.google.com%252F</field>
+        <field name="Description">DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode</field>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">DRV8220DRLR</field>
+        <field name="Mouser Part Number">595-DRV8220DRLR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8220DRLR?qs=A6eO%252BMLsxmTbgRMs5Sh%2FhA%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN1" type="passive"/>
+        <pin num="2" name="IN2" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="OUT2" type="passive"/>
+        <pin num="5" name="VM" type="passive"/>
+        <pin num="6" name="OUT1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="IPD30N08S2L21ATMA1" part="IPD30N08S2L21ATMA1">
+      <description>75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS</description>
+      <docs>https://www.infineon.com/dgdl/Infineon-IPD30N08S2L_21-DS-v01_00-en.pdf?fileId=db3a304412b407950112b426f6a33b23</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IPD30N08S2L21ATMA1</field>
+        <field name="Footprint">IPD30N08S2L21ATMA1</field>
+        <field name="Datasheet">https://www.infineon.com/dgdl/Infineon-IPD30N08S2L_21-DS-v01_00-en.pdf?fileId=db3a304412b407950112b426f6a33b23</field>
+        <field name="Description">75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS</field>
+        <field name="Height">2.5</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IPD30N08S2L21ATMA1</field>
+        <field name="Mouser Part Number">726-IPD30N08S2L21ATM</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD30N08S2L21ATMA1?qs=OwbwYO03UsLjtivgYvUgnQ%3D%3D</field>
+        <field name="Arrow Part Number">IPD30N08S2L21ATMA1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ipd30n08s2l21atma1/infineon-technologies-ag</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MIC4427YM-TR" part="MIC4427YM-TR">
+      <description>Gate Drivers 1.5A Dual High Speed MOSFET Driver</description>
+      <fields>
+        <field name="Value">MIC4427YM-TR</field>
+        <field name="Reference_1">IC</field>
+        <field name="Value_1">MIC4427YM-TR</field>
+        <field name="Footprint_1">SOIC127P599X173-8N</field>
+        <field name="Datasheet_1">http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579187</field>
+        <field name="Height">1.73</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MIC4427YM-TR</field>
+        <field name="Mouser Part Number">998-MIC4427YMTR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC4427YM-TR?qs=U6T8BxXiZAULm0GXl3dTfQ%3D%3D</field>
+        <field name="Arrow Part Number">MIC4427YM-TR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mic4427ym-tr/microchip-technology?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC_1" type="passive"/>
+        <pin num="2" name="INA" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="INB" type="passive"/>
+        <pin num="5" name="OUTB" type="passive"/>
+        <pin num="6" name="VS" type="passive"/>
+        <pin num="7" name="OUTA" type="passive"/>
+        <pin num="8" name="NC_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="SK34A-LTP" part="SK34A-LTP">
+      <description>Schottky Diodes &amp; Rectifiers DIODE SCHOTTKY 40V 3A DO214AC</description>
+      <docs>https://www.mccsemi.com/pdf/Products/SK32A-LT~SK310A-LT%28DO-214AC%29.PDF</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK34A-LTP</field>
+        <field name="Footprint">DIOM5226X244N</field>
+        <field name="Datasheet">https://www.mccsemi.com/pdf/Products/SK32A-LT~SK310A-LT%28DO-214AC%29.PDF</field>
+        <field name="Description">Schottky Diodes &amp; Rectifiers DIODE SCHOTTKY 40V 3A DO214AC</field>
+        <field name="Height">2.44</field>
+        <field name="Manufacturer_Name">MCC</field>
+        <field name="Manufacturer_Part_Number">SK34A-LTP</field>
+        <field name="Mouser Part Number">833-SK34A-LTP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/SK34A-LTP?qs=JeAkOuORR2VPwzg48d%252BVAA%3D%3D</field>
+        <field name="Arrow Part Number">SK34A-LTP</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sk34a-ltp/micro-commercial-components?region=asia</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="T1M-02-F-SV-L" part="T1M-02-F-SV-L">
+      <description>2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</description>
+      <docs>http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">T1M-02-F-SV-L</field>
+        <field name="Footprint">T1M02FSVL</field>
+        <field name="Datasheet">http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</field>
+        <field name="Description">2 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">T1M-02-F-SV-L</field>
+        <field name="Mouser Part Number">200-T1M02FSVL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Samtec/T1M-02-F-SV-L?qs=PB6%2FjmICvI1sADoWEyGXsA%3D%3D</field>
+        <field name="Arrow Part Number">T1M-02-F-SV-L</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/t1m-02-f-sv-l/samtec?region=europe</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="MP1" name="MP1" type="passive"/>
+        <pin num="MP2" name="MP2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="T1M-05-F-SV-L" part="T1M-05-F-SV-L">
+      <description>5 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</description>
+      <docs>http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">T1M-05-F-SV-L</field>
+        <field name="Footprint">T1M05FSVL</field>
+        <field name="Datasheet">http://suddendocs.samtec.com/prints/t1m-xx-x-sv-l-x-mkt.pdf</field>
+        <field name="Description">5 Position, Discrete Wire Terminal Strip, 1.00 mm Pitch, Single-Row Vertical</field>
+        <field name="Height">5.5</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">T1M-05-F-SV-L</field>
+        <field name="Mouser Part Number">200-T1M05FSVL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=200-T1M05FSVL</field>
+        <field name="Arrow Part Number">T1M-05-F-SV-L</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/t1m-05-f-sv-l/samtec</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="MP1" name="MP1" type="passive"/>
+        <pin num="MP2" name="MP2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VJ1206Y106KXXTW1BC" part="VJ1206Y106KXXTW1BC">
+      <description>VISHAY - VJ1206Y106KXXTW1BC - CAP, MLCC, X7R, 10UF, 25V, 1206</description>
+      <fields>
+        <field name="Value">VJ1206Y106KXXTW1BC</field>
+        <field name="Reference_1">C</field>
+        <field name="Value_1">VJ1206Y106KXXTW1BC</field>
+        <field name="Footprint_1">CAPC3216X170N</field>
+        <field name="Datasheet_1">http://www.vishay.com/docs/45200/vjhirelseries.pdf</field>
+        <field name="Height">1.7</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ1206Y106KXXTW1BC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VJ1206Y226KXQTW1BC" part="VJ1206Y226KXQTW1BC">
+      <description>VISHAY - VJ1206Y226KXQTW1BC - CAP, 22F, 10V, 10%, X7R, 1206</description>
+      <fields>
+        <field name="Value">VJ1206Y226KXQTW1BC</field>
+        <field name="Reference_1">C</field>
+        <field name="Value_1">VJ1206Y226KXQTW1BC</field>
+        <field name="Footprint_1">CAPC3216X170N</field>
+        <field name="Datasheet_1">http://www.vishay.com/docs/45200/vjhirelseries.pdf</field>
+        <field name="Height">1.7</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ1206Y226KXQTW1BC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1752104">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/Power PCRlite/1752104/1752104.lib</uri>
+    </library>
+    <library logical="742792510">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/PCB POWER/742792510/742792510.kicad_sym</uri>
+    </library>
+    <library logical="7427932">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/PCB POWER/7427932/7427932.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Converter_DCDC">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Converter_DCDC.kicad_sym</uri>
+    </library>
+    <library logical="DRV8220DRLR">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/POWER SUPPLY PCRlite/DRV8220DRLR/DRV8220DRLR.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="IPD30N08S2L21ATMA1">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/Power PCRlite/IPD30N08S2L-21/IPD30N08S2L21ATMA1.lib</uri>
+    </library>
+    <library logical="MIC4427YM-TR">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/PCB POWER/MIC4427YM-TR/MIC4427YM-TR.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="SK34A-LTP">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/Power PCRlite/SK34A-LTP/SK34A-LTP.lib</uri>
+    </library>
+    <library logical="T1M-02-F-SV-L">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/T1M-02-F-SV-L/T1M-02-F-SV-L.lib</uri>
+    </library>
+    <library logical="T1M-05-F-SV-L">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/Power PCRlite/T1M-05-F-SV-L/T1M-05-F-SV-L.lib</uri>
+    </library>
+    <library logical="VJ1206Y106KXXTW1BC">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/PCB POWER/VJ1206Y106KXXTW1BC/VJ1206Y106KXXTW1BC.kicad_sym</uri>
+    </library>
+    <library logical="VJ1206Y226KXQTW1BC">
+      <uri>C:/Users/Tom Welsh/Documents/KiCad/PCBs/PCRlite/PCB POWER/VJ1206Y226KXQTW1BC/VJ1206Y226KXQTW1BC.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="BLWR_PID">
+      <node ref="J5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="INA" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="A3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="A4" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="B2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="B3" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="B4" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="C2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="C3" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="C4" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="D2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="D3" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="D4" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="D5" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="E3" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="E4" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="3" name="HTR_PID">
+      <node ref="J5" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="INB" pintype="passive"/>
+    </net>
+    <net code="4" name="MTR_1">
+      <node ref="IC1" pin="6" pinfunction="OUT1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="5" name="MTR_2">
+      <node ref="IC1" pin="4" pinfunction="OUT2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="MTR_PID1">
+      <node ref="IC1" pin="1" pinfunction="IN1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="MTR_PID2">
+      <node ref="IC1" pin="2" pinfunction="IN2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="VM" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="A1" pinfunction="+VIN" pintype="power_in"/>
+      <node ref="U3" pin="A2" pinfunction="+VIN" pintype="passive"/>
+      <node ref="U3" pin="C1" pinfunction="CTRL" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VS" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="OUTA" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="OUTB" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="TP13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(U3-PadA5)">
+      <node ref="U3" pin="A5" pinfunction="+VOUT" pintype="power_out"/>
+      <node ref="U3" pin="B5" pinfunction="+VOUT" pintype="passive"/>
+      <node ref="U3" pin="C5" pinfunction="Sense" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="THERM">
+      <node ref="J5" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="unconnected-(J2-PadMP1)">
+      <node ref="J2" pin="MP1" pinfunction="MP1" pintype="passive+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(J2-PadMP2)">
+      <node ref="J2" pin="MP2" pinfunction="MP2" pintype="passive+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(J3-PadMP1)">
+      <node ref="J3" pin="MP1" pinfunction="MP1" pintype="passive+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(J3-PadMP2)">
+      <node ref="J3" pin="MP2" pinfunction="MP2" pintype="passive+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(J4-PadMP1)">
+      <node ref="J4" pin="MP1" pinfunction="MP1" pintype="passive+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(J4-PadMP2)">
+      <node ref="J4" pin="MP2" pinfunction="MP2" pintype="passive+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(J5-PadMP1)">
+      <node ref="J5" pin="MP1" pinfunction="MP1" pintype="passive+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(J5-PadMP2)">
+      <node ref="J5" pin="MP2" pinfunction="MP2" pintype="passive+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(J6-PadMP1)">
+      <node ref="J6" pin="MP1" pinfunction="MP1" pintype="passive+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(J6-PadMP2)">
+      <node ref="J6" pin="MP2" pinfunction="MP2" pintype="passive+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(J7-PadMP1)">
+      <node ref="J7" pin="MP1" pinfunction="MP1" pintype="passive+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(J7-PadMP2)">
+      <node ref="J7" pin="MP2" pinfunction="MP2" pintype="passive+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U3-PadD1)">
+      <node ref="U3" pin="D1" pinfunction="PGood" pintype="output+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U3-PadE1)">
+      <node ref="U3" pin="E1" pinfunction="SEQ" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U3-PadE2)">
+      <node ref="U3" pin="E2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U3-PadE5)">
+      <node ref="U3" pin="E5" pinfunction="Trim" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

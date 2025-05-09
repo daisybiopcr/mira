@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54
+D FAIRCHILD SEMICONDUCTOR - BAT54. - DIODE, SCHOTTKY, 0.2A, 30V, SOT-23
+K
+F https://componentsearchengine.com/Datasheets/2/BAT54..pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RPM5.0-6.0
+D RECOM POWER - RPM5.0-6.0 - Non Isolated POL DC/DC Converter, ITE, 1 Output, 30 W, 5 V, 6 A, Fixed, Adjustable
+K
+F https://componentsearchengine.com/Datasheets/2/RPM5.0-6.0.pdf
+$ENDCMP
+#
+#End Doc Library

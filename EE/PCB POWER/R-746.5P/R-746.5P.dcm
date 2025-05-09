@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R-746.5P
+D Recom Switching Regulator, 8.5  28V Input, 5  7.5V Output, 5.5A
+K
+F https://recom-power.com/pdf/Innoline/R-7.pdf
+$ENDCMP
+#
+#End Doc Library
