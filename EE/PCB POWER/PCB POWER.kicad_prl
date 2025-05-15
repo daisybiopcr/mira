@@ -46,6 +46,9 @@
       "pads",
       "zones",
       "drc_warnings",
+      "drc_exclusions",
+      "locked_item_shadows",
+      "conflict_shadows",
       "shapes"
     ],
     "visible_layers": "00000000_00000000_0f0ff0ff_ffffffff",
