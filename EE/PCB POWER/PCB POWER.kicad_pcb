@@ -595,6 +595,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step"
+			(offset
+				(xyz -8 -0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_1206_3216Metric"
 		(layer "F.Cu")
@@ -1117,7 +1128,7 @@
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP7"
-			(at -0.4 -1.6 0)
+			(at -0.3 -1.8 0)
 			(layer "F.SilkS")
 			(uuid "901440f4-e2a6-4447-83cc-f58a2b26f5c4")
 			(effects
@@ -1190,7 +1201,7 @@
 			(uuid "d7e5a060-eb57-4238-9312-26bc885fc97d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.4 -1.6 0)
+			(at -0.3 -1.8 0)
 			(layer "F.Fab")
 			(uuid "f19c9655-8ddb-411a-96dd-bd986870c3c6")
 			(effects
@@ -1709,7 +1720,7 @@
 		(descr "8 SOIC (M)")
 		(tags "Integrated Circuit")
 		(property "Reference" "U1"
-			(at 0 0 90)
+			(at -1.86 -4.4 180)
 			(layer "F.SilkS")
 			(uuid "3b228d34-736b-4020-b3f3-aa632789e8a3")
 			(effects
@@ -2043,7 +2054,7 @@
 			(uuid "787450a2-2bf1-4258-a92d-2dd2c409babf")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at -1.86 -4.4 180)
 			(layer "F.Fab")
 			(uuid "486fdbb7-972d-4ee3-b1ee-c420f58d1e47")
 			(effects
@@ -2246,7 +2257,7 @@
 		(descr "1206 (CL31) 1.8T")
 		(tags "Capacitor")
 		(property "Reference" "C4"
-			(at 0 0 90)
+			(at -0.02 2.5 180)
 			(layer "F.SilkS")
 			(uuid "fde51fb4-7f86-4dbc-a1e8-c9ae965b43d9")
 			(effects
@@ -2478,7 +2489,7 @@
 			(uuid "8f7d1845-9d80-49fb-829a-ed8fac9a4354")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 2.5 180)
 			(layer "F.Fab")
 			(uuid "2182587f-9c15-445d-847b-631be35f7ea5")
 			(effects
@@ -2874,6 +2885,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step"
+			(offset
+				(xyz 0 0.25 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -3083,7 +3105,7 @@
 		(descr "IPD30N08S2L21ATMA1-2")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q2"
-			(at 0 1.02 0)
+			(at 6.4 -0.05 0)
 			(layer "F.SilkS")
 			(uuid "171494f3-904d-4da3-bfb3-fa0563a3777b")
 			(effects
@@ -3532,7 +3554,7 @@
 		(descr "IPD30N08S2L21ATMA1-2")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q1"
-			(at 0 1.02 0)
+			(at 6.73 0.02 0)
 			(layer "F.SilkS")
 			(uuid "cf4df4f1-b955-4ee5-8316-b7e9bfd1598f")
 			(effects
@@ -4377,7 +4399,7 @@
 			(uuid "2f291a4b-4ecb-4692-9ad2-324f9784c0d4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.27 1.41 180)
+			(at -2 -0.6 180)
 			(layer "F.Fab")
 			(uuid "759788bd-3cb9-4d38-b58c-5cb10b7dca6b")
 			(effects
@@ -5263,6 +5285,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "B2B-PH-K-S:B2BPHKS"
 		(layer "F.Cu")
@@ -5619,6 +5652,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "F.Cu")
@@ -5627,7 +5671,7 @@
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP4"
-			(at 2.3 0.1 0)
+			(at 2.8 0.1 0)
 			(layer "F.SilkS")
 			(uuid "fdc60c06-30fa-4dfb-96b4-809b755999e1")
 			(effects
@@ -5700,7 +5744,7 @@
 			(uuid "337e8520-cbd2-42c0-8d17-743bab17cbbd")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.3 0.1 0)
+			(at 2.8 0.1 0)
 			(layer "F.Fab")
 			(uuid "1dfbf353-5b24-4c0f-8322-8fcd514ae75e")
 			(effects
@@ -6227,7 +6271,7 @@
 		(descr "https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf")
 		(tags "dc-dc recom buck lga-25 pitch 2.29mm")
 		(property "Reference" "U3"
-			(at 5.38 -7.34 0)
+			(at 5.33 -7.97 0)
 			(layer "F.SilkS")
 			(uuid "b5cd98f1-c90c-47a2-8e8f-8ff7549b58c5")
 			(effects
@@ -6428,7 +6472,7 @@
 			(uuid "d01a70e2-7753-4ea9-8498-c66a651fa035")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 5.33 -7.97 0)
 			(layer "F.Fab")
 			(uuid "edfb9946-96c1-415d-b25c-66d25276a725")
 			(effects
@@ -7628,7 +7672,7 @@
 		(descr "18122")
 		(tags "Inductor")
 		(property "Reference" "U2"
-			(at -1.8575 -2.06 90)
+			(at 0.65 3.2 180)
 			(layer "F.SilkS")
 			(uuid "5badaa20-46a0-4d28-a50a-5d091666385e")
 			(effects
@@ -7872,7 +7916,7 @@
 			(uuid "fef5a295-7f19-4ae3-bb9d-08cf8cec9dd2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.8575 -2.06 90)
+			(at 0.65 3.2 180)
 			(layer "F.Fab")
 			(uuid "84ac1cde-2957-480f-b437-73c1333c8830")
 			(effects
@@ -8132,7 +8176,7 @@
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP10"
-			(at -1.9 1.75 0)
+			(at -0.2 1.99 0)
 			(layer "F.SilkS")
 			(uuid "15a82541-58d8-45b5-99c5-fb52e017e3ea")
 			(effects
@@ -8205,7 +8249,7 @@
 			(uuid "142dd724-2a9f-4eea-ab21-209b1bc7ec65")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.9 1.75 0)
+			(at -0.2 1.99 0)
 			(layer "F.Fab")
 			(uuid "e70b6168-f98e-4322-bc55-500948ef7b77")
 			(effects
@@ -8746,7 +8790,7 @@
 		(descr "1206 (CL31) 1.8T")
 		(tags "Capacitor")
 		(property "Reference" "C9"
-			(at 0 0 270)
+			(at 0 -2.6 0)
 			(layer "F.SilkS")
 			(uuid "7d26b310-6972-41e0-87c2-845b74f4036b")
 			(effects
@@ -8978,7 +9022,7 @@
 			(uuid "37cf5bc9-8f6b-4322-950d-850c58d08f7e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 -2.6 0)
 			(layer "F.Fab")
 			(uuid "a007de88-692a-4adc-abd9-cb76889df54a")
 			(effects
@@ -9372,6 +9416,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -9885,7 +9940,7 @@
 		(descr "FDS2582")
 		(tags "Connector")
 		(property "Reference" "J2"
-			(at 0 0 0)
+			(at -4.175 0 0)
 			(layer "F.SilkS")
 			(uuid "0f707cfe-c8e5-4fb3-a95c-24ac525ca546")
 			(effects
@@ -10147,7 +10202,7 @@
 			(uuid "dffde844-1fa3-409d-a994-7b3c638415df")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -4.175 0 0)
 			(layer "F.Fab")
 			(uuid "0223d701-53f8-46cb-800c-6e988a14cb18")
 			(effects
@@ -10199,7 +10254,7 @@
 		(descr "FDS2582")
 		(tags "Connector")
 		(property "Reference" "J3"
-			(at 0 0 0)
+			(at -2.8 7.4 0)
 			(layer "F.SilkS")
 			(uuid "544cff74-64f0-494f-9af1-9c534a522fde")
 			(effects
@@ -10461,7 +10516,7 @@
 			(uuid "56ab04e2-96f1-42a9-9a01-209498ef2148")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -2.8 7.4 0)
 			(layer "F.Fab")
 			(uuid "c926ef99-c1e2-4e9a-8db7-efe4293b22a2")
 			(effects
@@ -11401,8 +11456,8 @@
 			)
 		)
 	)
-	(gr_text "BLWR MOSFET"
-		(at 68.2 117.5 0)
+	(gr_text "BLWR\nMOSFET"
+		(at 76.9 117.1 0)
 		(layer "F.SilkS")
 		(uuid "701b2848-011f-4a65-8acf-1621f4a4c253")
 		(effects
@@ -11410,7 +11465,7 @@
 				(size 1.5 1.5)
 				(thickness 0.3)
 			)
-			(justify left bottom)
+			(justify bottom)
 		)
 	)
 	(gr_text "MTR"
@@ -11449,6 +11504,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "CTRL"
+		(at 119.1 134.5 0)
+		(layer "F.SilkS")
+		(uuid "98e5aac3-07cc-4845-a111-6015c4feb89c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "-"
 		(at 61 92.5 0)
 		(layer "F.SilkS")
@@ -11462,7 +11530,7 @@
 		)
 	)
 	(gr_text "HTR MOSFET"
-		(at 75.6 63.4 0)
+		(at 76.1 63.2 0)
 		(layer "F.SilkS")
 		(uuid "aa56460a-e4fe-4526-8240-075f18022773")
 		(effects
@@ -11475,7 +11543,7 @@
 		)
 	)
 	(gr_text "HTR"
-		(at 97 60 0)
+		(at 72.6 91.7 0)
 		(layer "F.SilkS")
 		(uuid "aafb4786-bfee-4885-b52c-c4e0221e8073")
 		(effects
