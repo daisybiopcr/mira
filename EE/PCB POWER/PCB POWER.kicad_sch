@@ -4556,7 +4556,7 @@
 	)
 	(text "ADDED 10K PULL DOWNS 4X"
 		(exclude_from_sim no)
-		(at 91.44 184.15 0)
+		(at 27.94 177.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4587,7 +4587,7 @@
 	)
 	(text "FLIPPED POLARITY ON 5V POWER CONNECTOR"
 		(exclude_from_sim no)
-		(at 99.695 187.325 0)
+		(at 36.195 180.975 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4608,7 +4608,7 @@
 	)
 	(text "ADDED VIAS TO CONNECT FRONT AND BACK GROUND PLANES"
 		(exclude_from_sim no)
-		(at 107.315 177.8 0)
+		(at 43.815 171.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4625,6 +4625,16 @@
 			)
 		)
 		(uuid "7a4a1e28-5036-461b-9efd-571e412ae0af")
+	)
+	(text "ADDED LED"
+		(exclude_from_sim no)
+		(at 19.685 193.675 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "85e79f3a-b8a4-481d-a9a8-c9afeff26c75")
 	)
 	(text "12 VDC INPUT"
 		(exclude_from_sim no)
@@ -4648,7 +4658,7 @@
 	)
 	(text "ADDED \"+\" AND \"-\" TO TERMINAL BLOCK"
 		(exclude_from_sim no)
-		(at 97.79 193.675 0)
+		(at 34.29 187.325 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4691,7 +4701,7 @@
 	)
 	(text "CHANGES:"
 		(exclude_from_sim no)
-		(at 82.55 174.625 0)
+		(at 19.05 168.275 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4701,7 +4711,7 @@
 	)
 	(text "MOVED LONG TRACES TO BACK OF BOARD"
 		(exclude_from_sim no)
-		(at 97.79 180.975 0)
+		(at 34.29 174.625 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4711,7 +4721,7 @@
 	)
 	(text "ADDED VIAS AROUND MOSFETS CONNECTED TO COPPER POURS ON BACK OF BOARD"
 		(exclude_from_sim no)
-		(at 117.475 196.85 0)
+		(at 54.61 190.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4721,7 +4731,7 @@
 	)
 	(text "ADDED OPEN-SOURCE HARDWARE LOGO"
 		(exclude_from_sim no)
-		(at 96.52 190.5 0)
+		(at 33.02 184.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8214,7 +8224,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 29.845 184.15 0)
+		(at 243.84 85.725 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8223,7 +8233,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e484963-b269-42b3-9486-24df28465ede")
 		(property "Reference" "H2"
-			(at 33.02 182.8799 0)
+			(at 247.015 84.4549 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8232,7 +8242,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 33.02 185.4199 0)
+			(at 247.015 86.9949 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8241,7 +8251,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.7mm"
-			(at 29.845 184.15 0)
+			(at 243.84 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8250,7 +8260,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 29.845 184.15 0)
+			(at 243.84 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8259,7 +8269,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.845 184.15 0)
+			(at 243.84 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8987,7 +8997,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 54.61 184.15 0)
+		(at 264.795 85.725 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8996,7 +9006,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a06614c-9556-4fe1-915f-0d676dc9aaf7")
 		(property "Reference" "H4"
-			(at 57.785 182.8799 0)
+			(at 267.97 84.4549 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9005,7 +9015,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 57.785 185.4199 0)
+			(at 267.97 86.9949 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9014,7 +9024,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.7mm"
-			(at 54.61 184.15 0)
+			(at 264.795 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9023,7 +9033,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 184.15 0)
+			(at 264.795 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9032,7 +9042,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 184.15 0)
+			(at 264.795 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9474,7 +9484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 167.767 46.99 90)
 			(effects
 				(font
@@ -10174,7 +10184,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 167.767 34.29 90)
 			(effects
 				(font
@@ -10715,7 +10725,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 54.61 172.72 0)
+		(at 264.795 74.295 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10724,7 +10734,7 @@
 		(fields_autoplaced yes)
 		(uuid "a47ca0f0-1272-4c92-81c6-223879630a80")
 		(property "Reference" "H3"
-			(at 57.785 171.4499 0)
+			(at 267.97 73.0249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10733,7 +10743,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 57.785 173.9899 0)
+			(at 267.97 75.5649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10742,7 +10752,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.7mm"
-			(at 54.61 172.72 0)
+			(at 264.795 74.295 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10751,7 +10761,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 172.72 0)
+			(at 264.795 74.295 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10760,7 +10770,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 172.72 0)
+			(at 264.795 74.295 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10987,7 +10997,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 29.845 172.085 0)
+		(at 243.84 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10996,7 +11006,7 @@
 		(fields_autoplaced yes)
 		(uuid "abc83c01-eac1-45cf-926b-35e6bf0c756b")
 		(property "Reference" "H1"
-			(at 33.02 170.8149 0)
+			(at 247.015 72.3899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11005,7 +11015,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 33.02 173.3549 0)
+			(at 247.015 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11014,7 +11024,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.7mm"
-			(at 29.845 172.085 0)
+			(at 243.84 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11023,7 +11033,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 29.845 172.085 0)
+			(at 243.84 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11032,7 +11042,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.845 172.085 0)
+			(at 243.84 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
