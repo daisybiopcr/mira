@@ -5,1882 +5,6 @@
 	(uuid "cd8749bf-3e4a-4fb4-9f0a-a504f302c717")
 	(paper "A4")
 	(lib_symbols
-		(symbol "150120VS75000:150120VS75000"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "LED"
-				(at 12.7 8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "150120VS75000"
-				(at 12.7 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "LEDC3216X78N"
-				(at 12.7 -93.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/150120VS75000.pdf"
-				(at 12.7 -193.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Description" "Wurth Elektronik 150120VS75000, WL-SMCW Series Green LED, 570 nm, 3016 (1206) Clear, Rectangle Lens SMD Package"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "0.78"
-				(at 12.7 -393.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Wurth Elektronik"
-				(at 12.7 -493.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "150120VS75000"
-				(at 12.7 -593.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "710-150120VS75000"
-				(at 12.7 -693.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150120VS75000?qs=LlUlMxKIyB19Jz1m%2F52oVA%3D%3D"
-				(at 12.7 -793.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 12.7 -893.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 12.7 -993.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(symbol "150120VS75000_1_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.35 2.54) (xy 3.81 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.89 2.54) (xy 6.35 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 12.7 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "1752104_1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 16.51 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "1752104"
-				(at 16.51 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SHDR2W90P0X350_1X2_760X1000X1255P"
-				(at 16.51 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/eeae7e9f9b3a235c7d873ddf4da930cb.pdf"
-				(at 16.51 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "12.55"
-				(at 16.51 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Phoenix Contact"
-				(at 16.51 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "1752104"
-				(at 16.51 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "651-1752104"
-				(at 16.51 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1752104?qs=Fz3yxlUjJZHh45xXQlykhw%3D%3D"
-				(at 16.51 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "1752104"
-				(at 16.51 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1752104/phoenix-contact?region=nac"
-				(at 16.51 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "1752104_1_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "1752104_2"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 16.51 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "1752104"
-				(at 16.51 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SHDR2W90P0X350_1X2_760X1000X1255P"
-				(at 16.51 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/eeae7e9f9b3a235c7d873ddf4da930cb.pdf"
-				(at 16.51 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "12.55"
-				(at 16.51 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Phoenix Contact"
-				(at 16.51 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "1752104"
-				(at 16.51 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "651-1752104"
-				(at 16.51 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1752104?qs=Fz3yxlUjJZHh45xXQlykhw%3D%3D"
-				(at 16.51 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "1752104"
-				(at 16.51 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1752104/phoenix-contact?region=nac"
-				(at 16.51 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "1752104_2_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "742792510:742792510"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U2"
-				(at 10.16 11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "742792510"
-				(at 10.16 8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "742792510:18122"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/MIDC/MIDC-S-A0013715343/MIDC-S-A0013795848-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Reference_1" "L"
-				(at 10.16 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value_1" "742792510"
-				(at 10.16 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint_1" "18122"
-				(at 16.51 -96.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet_1" ""
-				(at 16.51 -196.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Height" ""
-				(at 16.51 -396.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Wurth Elektronik"
-				(at 16.51 -496.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "742792510"
-				(at 16.51 -596.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "710-742792510"
-				(at 16.51 -696.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/742792510?qs=5twSNpOB8IABB9Afmrmq3A%3D%3D"
-				(at 16.51 -796.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 16.51 -896.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 16.51 -996.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "742792510_1_1"
-				(arc
-					(start 5.08 0)
-					(mid 6.35 1.219)
-					(end 7.62 0)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.62 0)
-					(mid 8.89 1.219)
-					(end 10.16 0)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 10.16 0)
-					(mid 11.43 1.219)
-					(end 12.7 0)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 12.7 0)
-					(mid 13.97 1.219)
-					(end 15.24 0)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 20.32 0 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "7427932:7427932"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "7427932"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "SMD EMI Suppression Ferrite Beads WE-PBF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Reference_1" "FB"
-				(at 16.51 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value_1" "7427932"
-				(at 16.51 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint_1" "7427932"
-				(at 16.51 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet_1" "https://componentsearchengine.com/Datasheets/2/7427932.pdf"
-				(at 16.51 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Height" "3.15"
-				(at 16.51 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Wurth Elektronik"
-				(at 16.51 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "7427932"
-				(at 16.51 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "710-7427932"
-				(at 16.51 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/7427932?qs=E%2F%2FhvbtCqpMraVkI3KrIPA%3D%3D"
-				(at 16.51 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 16.51 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 16.51 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "7427932_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "B2B-PH-K-S:B2B-PH-K-S"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 16.51 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "B2B-PH-K-S"
-				(at 16.51 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "B2BPHKS"
-				(at 16.51 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
-				(at 16.51 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "2 Positions Header Connector 0.079\" (2.00mm) Through Hole Tin, 2A, 20 m max., 100V, -25 to +85"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "6"
-				(at 16.51 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-				(at 16.51 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "B2B-PH-K-S"
-				(at 16.51 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 16.51 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 16.51 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 16.51 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 16.51 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "B2B-PH-K-S_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "B5B-PH-K-S:B5B-PH-K-S"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 16.51 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "B5B-PH-K-S"
-				(at 16.51 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "B5BPHKS"
-				(at 16.51 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/JST%20PDFs/PH%20Series.pdf"
-				(at 16.51 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Connector Header Through Hole 5 position 0.079\" (2.00mm)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "6"
-				(at 16.51 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-				(at 16.51 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "B5B-PH-K-S"
-				(at 16.51 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 16.51 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 16.51 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 16.51 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 16.51 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "B5B-PH-K-S_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -12.7)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -10.16 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "CL31B106KAHNNNE:CL31B106KAHNNNE"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 8.89 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "CL31B106KAHNNNE"
-				(at 8.89 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "CAPC3216X180N"
-				(at 8.89 -96.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/d94547340e0e9d2be5f415b64e4e2f0a.pdf"
-				(at 8.89 -196.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Samsung Electro-Mechanics CL31B106KAHNNNE 10uF Multilayer Ceramic Capacitor MLCC 25V dc +/-10% Tolerance SMD"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.8"
-				(at 8.89 -396.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "SAMSUNG"
-				(at 8.89 -496.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "CL31B106KAHNNNE"
-				(at 8.89 -596.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "187-CL31B106KAHNNNE"
-				(at 8.89 -696.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31B106KAHNNNE?qs=349EhDEZ59r5EZhnLOTsYA%3D%3D"
-				(at 8.89 -796.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "CL31B106KAHNNNE"
-				(at 8.89 -896.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31b106kahnnne/samsung-electro-mechanics?utm_currency=USD&region=europe"
-				(at 8.89 -996.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "CL31B106KAHNNNE_1_1"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 5.588 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.588 2.54) (xy 5.588 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 2.54) (xy 7.112 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "CL31B226KPHNNNE:CL31B226KPHNNNE"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 8.89 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "CL31B226KPHNNNE"
-				(at 8.89 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "CAPC3216X180N"
-				(at 8.89 -96.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf"
-				(at 8.89 -196.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "22F +/-10% 10V Ceramic Capacitor X7R 1206 (3216 Metric)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.8"
-				(at 8.89 -396.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "SAMSUNG"
-				(at 8.89 -496.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "CL31B226KPHNNNE"
-				(at 8.89 -596.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "187-CL31B226KPHNNNE"
-				(at 8.89 -696.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31B226KPHNNNE?qs=EHbfJsBkB6nWZLDFWYPW4w%3D%3D"
-				(at 8.89 -796.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "CL31B226KPHNNNE"
-				(at 8.89 -896.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31b226kphnnne/samsung-electro-mechanics?region=nac"
-				(at 8.89 -996.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "CL31B226KPHNNNE_1_1"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 5.588 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.588 2.54) (xy 5.588 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 2.54) (xy 7.112 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers
 				(hide yes)
@@ -1978,6 +102,377 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector_Generic:Conn_01x05"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x05"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x05_1_1"
+				(rectangle
+					(start -1.27 6.35)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2537,10 +1032,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "DRV8220DRLR:DRV8220DRLR"
-			(pin_names
-				(offset 0.762)
-			)
+		(symbol "DaisyBio_Mira:DRV8220DRLR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2550,7 +1042,7 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 				)
 			)
 			(property "Value" "DRV8220DRLR"
@@ -2559,130 +1051,120 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 				)
 			)
-			(property "Footprint" "SOTFL50P160X60-6N"
-				(at 24.13 2.54 0)
+			(property "Footprint" "DaisyBio_Mira:SOTFL50P160X60-6N"
+				(at 24.13 -94.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
 			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv8220.pdf?ts=1631525955787&ref_url=https%253A%252F%252Fwww.google.com%252F"
-				(at 24.13 0 0)
+				(at 24.13 -194.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
 			(property "Description" "DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode"
-				(at 24.13 -2.54 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 					(hide yes)
 				)
 			)
 			(property "Height" "0.6"
-				(at 24.13 -5.08 0)
+				(at 24.13 -394.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
 			(property "Manufacturer_Name" "Texas Instruments"
-				(at 24.13 -7.62 0)
+				(at 24.13 -494.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
 			(property "Manufacturer_Part_Number" "DRV8220DRLR"
-				(at 24.13 -10.16 0)
+				(at 24.13 -594.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
 			(property "Mouser Part Number" "595-DRV8220DRLR"
-				(at 24.13 -12.7 0)
+				(at 24.13 -694.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
 			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8220DRLR?qs=A6eO%252BMLsxmTbgRMs5Sh%2FhA%3D%3D"
-				(at 24.13 -15.24 0)
+				(at 24.13 -794.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Arrow Part Number" ""
-				(at 24.13 -17.78 0)
+			(property "Arrow Part Number" "DRV8220DRLR"
+				(at 24.13 -894.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Arrow Price/Stock" ""
-				(at 24.13 -20.32 0)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8220drlr/texas-instruments?utm_currency=USD&region=europe"
+				(at 24.13 -994.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Mouser Testing Part Number" ""
-				(at 24.13 -22.86 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+			(symbol "DRV8220DRLR_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 22.86 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
 					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Testing Price/Stock" ""
-				(at 24.13 -25.4 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+					(fill
+						(type background)
 					)
-					(justify left)
-					(hide yes)
 				)
-			)
-			(symbol "DRV8220DRLR_0_0"
 				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
@@ -2740,14 +1222,14 @@
 				(pin passive line
 					(at 27.94 0 180)
 					(length 5.08)
-					(name "OUT2"
+					(name "OUT1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "4"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2776,7 +1258,269 @@
 				(pin passive line
 					(at 27.94 -5.08 180)
 					(length 5.08)
-					(name "OUT1"
+					(name "OUT2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "DaisyBio_Mira:MIC4427YM-TR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "IC"
+				(at 24.13 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "MIC4427YM-TR"
+				(at 24.13 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "DaisyBio_Mira:SOIC127P599X173-8N"
+				(at 24.13 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579187"
+				(at 24.13 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Gate Drivers 1.5A Dual High Speed MOSFET Driver"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.73"
+				(at 24.13 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Microchip"
+				(at 24.13 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "MIC4427YM-TR"
+				(at 24.13 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "998-MIC4427YMTR"
+				(at 24.13 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC4427YM-TR?qs=U6T8BxXiZAULm0GXl3dTfQ%3D%3D"
+				(at 24.13 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "MIC4427YM-TR"
+				(at 24.13 -894.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/mic4427ym-tr/microchip-technology?region=nac"
+				(at 24.13 -994.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "MIC4427YM-TR_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 22.86 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "NC_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "INA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "INB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 0 180)
+					(length 5.08)
+					(name "NC_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -2.54 180)
+					(length 5.08)
+					(name "OUTA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -5.08 180)
+					(length 5.08)
+					(name "VS"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2791,18 +1535,22 @@
 						)
 					)
 				)
-			)
-			(symbol "DRV8220DRLR_0_1"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 22.86 2.54) (xy 22.86 -7.62) (xy 5.08 -7.62) (xy 5.08 2.54)
+				(pin passive line
+					(at 27.94 -7.62 180)
+					(length 5.08)
+					(name "OUTB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 			)
@@ -2947,7 +1695,175 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:R"
+		(symbol "Device:D"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:FerriteBead"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2957,16 +1873,16 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
+			(property "Reference" "FB"
+				(at -3.81 0.635 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "R"
-				(at 0 0 90)
+			(property "Value" "FerriteBead"
+				(at 3.81 0 90)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2991,7 +1907,501 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Resistor"
+			(property "Description" "Ferrite bead"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FerriteBead_0_1"
+				(polyline
+					(pts
+						(xy -2.7686 0.4064) (xy -1.7018 2.2606) (xy 2.7686 -0.3048) (xy 1.6764 -2.159) (xy -2.7686 0.4064)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -1.2192)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:L"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at -1.27 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "L"
+				(at 1.905 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Inductor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "inductor choke coil reactor magnetic"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "L_0_1"
+				(arc
+					(start 0 2.54)
+					(mid 0.6323 1.905)
+					(end 0 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 1.27)
+					(mid 0.6323 0.635)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.6323 -0.635)
+					(end 0 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.27)
+					(mid 0.6323 -1.905)
+					(end 0 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "L_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:LED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LED diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_0_1"
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:R_US"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R_US"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 1.016 -0.254 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor, US symbol"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3018,12 +2428,61 @@
 					(hide yes)
 				)
 			)
-			(symbol "R_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
+			(symbol "R_US_0_1"
+				(polyline
+					(pts
+						(xy 0 2.286) (xy 0 2.54)
+					)
 					(stroke
-						(width 0.254)
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.286) (xy 1.016 1.905) (xy 0 1.524) (xy -1.016 1.143) (xy 0 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.762) (xy 1.016 0.381) (xy 0 0) (xy -1.016 -0.381) (xy 0 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.762) (xy 1.016 -1.143) (xy 0 -1.524) (xy -1.016 -1.905) (xy 0 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.286) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -3031,7 +2490,7 @@
 					)
 				)
 			)
-			(symbol "R_1_1"
+			(symbol "R_US_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -3475,636 +2934,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "IPD30N08S2L21ATMA1:IPD30N08S2L21ATMA1"
-			(pin_names
-				(offset 0.762)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at 11.43 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "IPD30N08S2L21ATMA1"
-				(at 11.43 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "IPD30N08S2L21ATMA1"
-				(at 11.43 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IPD30N08S2L_21-DS-v01_00-en.pdf?fileId=db3a304412b407950112b426f6a33b23"
-				(at 11.43 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS"
-				(at 11.43 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Height" "2.5"
-				(at 11.43 -8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Infineon"
-				(at 11.43 -11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "IPD30N08S2L21ATMA1"
-				(at 11.43 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "726-IPD30N08S2L21ATM"
-				(at 11.43 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD30N08S2L21ATMA1?qs=OwbwYO03UsLjtivgYvUgnQ%3D%3D"
-				(at 11.43 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "IPD30N08S2L21ATMA1"
-				(at 11.43 -21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ipd30n08s2l21atma1/infineon-technologies-ag"
-				(at 11.43 -24.13 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(symbol "IPD30N08S2L21ATMA1_0_0"
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 10.16 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "IPD30N08S2L21ATMA1_0_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 5.08 0) (xy 5.08 5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 5.588) (xy 5.842 4.572)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 2.54) (xy 6.858 3.048) (xy 6.858 2.032) (xy 5.842 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 2.032) (xy 5.842 3.048)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 -0.508) (xy 5.842 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 6.35 2.54)
-					(radius 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 5.842 5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 7.62 7.62)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 5.842 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "MIC4427YM-TR:MIC4427YM-TR"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MIC4427YM-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Gate Drivers 1.5A Dual High Speed MOSFET Driver"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Reference_1" "IC"
-				(at 24.13 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value_1" "MIC4427YM-TR"
-				(at 24.13 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint_1" "SOIC127P599X173-8N"
-				(at 24.13 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet_1" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579187"
-				(at 24.13 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.73"
-				(at 24.13 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Microchip"
-				(at 24.13 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "MIC4427YM-TR"
-				(at 24.13 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "998-MIC4427YMTR"
-				(at 24.13 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC4427YM-TR?qs=U6T8BxXiZAULm0GXl3dTfQ%3D%3D"
-				(at 24.13 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "MIC4427YM-TR"
-				(at 24.13 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/mic4427ym-tr/microchip-technology?region=nac"
-				(at 24.13 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "MIC4427YM-TR_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 22.86 -10.16)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "NC_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "INA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "INB"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 0 180)
-					(length 5.08)
-					(name "NC_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -2.54 180)
-					(length 5.08)
-					(name "OUTA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -5.08 180)
-					(length 5.08)
-					(name "VS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -7.62 180)
-					(length 5.08)
-					(name "OUTB"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Mechanical:MountingHole"
 			(pin_names
 				(offset 1.016)
@@ -4188,15 +3017,16 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SK34A-LTP:SK34A-LTP"
+		(symbol "Transistor_FET:Q_NMOS_GDS"
 			(pin_names
-				(offset 0.762)
+				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "D"
-				(at 11.43 5.08 0)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4204,8 +3034,8 @@
 					(justify left)
 				)
 			)
-			(property "Value" "SK34A-LTP"
-				(at 11.43 2.54 0)
+			(property "Value" "Q_NMOS_GDS"
+				(at 5.08 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4213,111 +3043,214 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "DIOM5226X244N"
-				(at 11.43 0 0)
+			(property "Footprint" ""
+				(at 5.08 2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.mccsemi.com/pdf/Products/SK32A-LT~SK310A-LT%28DO-214AC%29.PDF"
-				(at 11.43 -2.54 0)
+			(property "Datasheet" "~"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 					(hide yes)
 				)
 			)
-			(property "Description" "Schottky Diodes & Rectifiers DIODE SCHOTTKY 40V 3A DO214AC"
-				(at 11.43 -5.08 0)
+			(property "Description" "N-MOSFET transistor, gate/drain/source"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 					(hide yes)
 				)
 			)
-			(property "Height" "2.44"
-				(at 11.43 -7.62 0)
+			(property "ki_keywords" "transistor NMOS N-MOS N-MOSFET"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Name" "MCC"
-				(at 11.43 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+			(symbol "Q_NMOS_GDS_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
 					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "SK34A-LTP"
-				(at 11.43 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+					(stroke
+						(width 0.254)
+						(type default)
 					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "833-SK34A-LTP"
-				(at 11.43 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+					(fill
+						(type none)
 					)
-					(justify left)
-					(hide yes)
 				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/SK34A-LTP?qs=JeAkOuORR2VPwzg48d%252BVAA%3D%3D"
-				(at 11.43 -17.78 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
 					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "SK34A-LTP"
-				(at 11.43 -20.32 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+					(stroke
+						(width 0)
+						(type default)
 					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/sk34a-ltp/micro-commercial-components?region=asia"
-				(at 11.43 -22.86 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+					(fill
+						(type none)
 					)
-					(justify left)
-					(hide yes)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.921 0.381) (xy 3.683 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
 				)
 			)
-			(symbol "SK34A-LTP_0_0"
-				(pin passive line
-					(at 0 0 0)
+			(symbol "Q_NMOS_GDS_1_1"
+				(pin input line
+					(at -5.08 0 0)
 					(length 2.54)
-					(name "~"
+					(name "G"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4333,9 +3266,9 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 0 180)
+					(at 2.54 5.08 270)
 					(length 2.54)
-					(name "~"
+					(name "D"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4350,54 +3283,22 @@
 						)
 					)
 				)
-			)
-			(symbol "SK34A-LTP_0_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 5.08 0)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 12.7 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 			)
@@ -4566,7 +3467,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 69.85 29.845 0)
+		(at 78.105 29.845 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4638,7 +3539,7 @@
 	)
 	(text "12 VDC INPUT"
 		(exclude_from_sim no)
-		(at 64.77 26.67 0)
+		(at 73.025 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4648,7 +3549,7 @@
 	)
 	(text "TERMINAL\nBLOCK"
 		(exclude_from_sim no)
-		(at 78.105 34.925 0)
+		(at 83.82 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4822,7 +3723,7 @@
 		(uuid "6048bae9-7271-4b4b-a6cc-85a1fa5b9d2a")
 	)
 	(junction
-		(at 89.535 81.28)
+		(at 89.535 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "62752cda-34ec-4d29-86db-b0d7a33437be")
@@ -4843,7 +3744,7 @@
 		(at 163.195 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "73a663ef-1737-4f6f-b68c-ed022c02182d")
+		(uuid "79049362-4b8b-49bf-8a8d-c9c475112dd2")
 	)
 	(junction
 		(at 201.295 26.67)
@@ -4870,7 +3771,7 @@
 		(uuid "8f4d1a9e-4183-4a91-b4f0-b84ca294d41c")
 	)
 	(junction
-		(at 89.535 76.2)
+		(at 89.535 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9015f1d3-dc81-41b5-9865-8ebc64a31d2c")
@@ -5083,6 +3984,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.205 26.67) (xy 126.365 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f4f40ac-cc26-4fc2-94d6-7d9b1863a7b5")
+	)
+	(wire
+		(pts
 			(xy 148.59 100.965) (xy 148.59 105.41)
 		)
 		(stroke
@@ -5193,7 +4104,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.295 26.67) (xy 201.295 31.75)
+			(xy 201.295 26.67) (xy 201.295 36.83)
 		)
 		(stroke
 			(width 0)
@@ -5343,16 +4254,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 26.67) (xy 182.88 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35cabb4d-f1ae-4e19-80dc-7754d14a532d")
-	)
-	(wire
-		(pts
 			(xy 113.03 123.19) (xy 147.32 123.19)
 		)
 		(stroke
@@ -5433,16 +4334,6 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 26.67) (xy 180.34 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d816c0a-5d7c-4b21-81b6-98c91038e5c2")
-	)
-	(wire
-		(pts
 			(xy 31.75 78.74) (xy 37.465 78.74)
 		)
 		(stroke
@@ -5450,26 +4341,6 @@
 			(type default)
 		)
 		(uuid "40db0c08-438a-46df-9f26-c58c612faa20")
-	)
-	(wire
-		(pts
-			(xy 99.06 45.085) (xy 99.06 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4104446d-c265-4974-b1c4-eeb6bb66919f")
-	)
-	(wire
-		(pts
-			(xy 174.625 107.95) (xy 174.625 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41bdc82d-eda9-4371-86d9-8d62ddb65e32")
 	)
 	(wire
 		(pts
@@ -5603,7 +4474,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.195 95.25) (xy 163.195 90.17)
+			(xy 163.195 90.17) (xy 163.195 100.33)
 		)
 		(stroke
 			(width 0)
@@ -5763,13 +4634,23 @@
 	)
 	(wire
 		(pts
-			(xy 89.535 76.2) (xy 95.25 76.2)
+			(xy 89.535 81.28) (xy 95.25 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "70e0855d-b0d6-485d-8594-51614b80c17f")
+	)
+	(wire
+		(pts
+			(xy 99.06 43.18) (xy 99.06 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77841141-e3a1-49d7-ad83-105e56abd7e9")
 	)
 	(wire
 		(pts
@@ -5933,7 +4814,7 @@
 	)
 	(wire
 		(pts
-			(xy 89.535 81.28) (xy 95.25 81.28)
+			(xy 89.535 76.2) (xy 95.25 76.2)
 		)
 		(stroke
 			(width 0)
@@ -6053,26 +4934,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 26.67) (xy 201.295 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b09246f3-b87a-4936-96b8-d67c804e51c0")
-	)
-	(wire
-		(pts
-			(xy 121.285 26.67) (xy 126.365 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1bee371-201c-474f-9d9f-fdb9266a3bf1")
-	)
-	(wire
-		(pts
 			(xy 56.515 125.73) (xy 56.515 130.81)
 		)
 		(stroke
@@ -6123,7 +4984,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.835 81.28) (xy 89.535 81.28)
+			(xy 76.835 76.2) (xy 89.535 76.2)
 		)
 		(stroke
 			(width 0)
@@ -6133,7 +4994,17 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 26.67) (xy 100.965 26.67)
+			(xy 187.96 26.67) (xy 201.295 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c959e0c9-304e-45ba-b176-22ae51990a81")
+	)
+	(wire
+		(pts
+			(xy 99.06 26.67) (xy 108.585 26.67)
 		)
 		(stroke
 			(width 0)
@@ -6153,7 +5024,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 26.67) (xy 99.06 32.385)
+			(xy 99.06 26.67) (xy 99.06 35.56)
 		)
 		(stroke
 			(width 0)
@@ -6173,7 +5044,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.835 76.2) (xy 89.535 76.2)
+			(xy 76.835 81.28) (xy 89.535 81.28)
 		)
 		(stroke
 			(width 0)
@@ -6193,7 +5064,7 @@
 	)
 	(wire
 		(pts
-			(xy 89.535 74.295) (xy 89.535 76.2)
+			(xy 89.535 83.185) (xy 89.535 81.28)
 		)
 		(stroke
 			(width 0)
@@ -6203,7 +5074,7 @@
 	)
 	(wire
 		(pts
-			(xy 89.535 81.28) (xy 89.535 83.82)
+			(xy 89.535 76.2) (xy 89.535 73.66)
 		)
 		(stroke
 			(width 0)
@@ -6323,6 +5194,16 @@
 	)
 	(wire
 		(pts
+			(xy 174.625 106.045) (xy 174.625 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb28da7b-38b7-4873-907f-0918c3bf9b5e")
+	)
+	(wire
+		(pts
 			(xy 113.03 123.19) (xy 113.03 139.065)
 		)
 		(stroke
@@ -6333,7 +5214,7 @@
 	)
 	(wire
 		(pts
-			(xy 174.625 90.17) (xy 174.625 92.71)
+			(xy 174.625 90.17) (xy 174.625 98.425)
 		)
 		(stroke
 			(width 0)
@@ -6373,7 +5254,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 55.88) (xy 234.95 59.055)
+			(xy 234.95 48.26) (xy 234.95 51.435)
 		)
 		(stroke
 			(width 0)
@@ -6393,7 +5274,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.005 146.685) (xy 167.005 150.495)
+			(xy 167.005 146.685) (xy 167.005 155.575)
 		)
 		(stroke
 			(width 0)
@@ -6453,7 +5334,7 @@
 	)
 	(global_label "MTR_2"
 		(shape output)
-		(at 95.25 76.2 0)
+		(at 95.25 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6463,7 +5344,7 @@
 		)
 		(uuid "0a35f93b-64e0-4394-afde-33379fb279fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.5293 76.1206 0)
+			(at 103.5293 81.3594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6651,7 +5532,7 @@
 	)
 	(global_label "MTR_1"
 		(shape output)
-		(at 95.25 81.28 0)
+		(at 95.25 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6661,7 +5542,7 @@
 		)
 		(uuid "7cc5bd1b-47e3-4193-b8a4-ff2a5e75f1c2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.5293 81.2006 0)
+			(at 103.5293 76.2794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6760,8 +5641,8 @@
 		)
 	)
 	(symbol
-		(lib_id "SK34A-LTP:SK34A-LTP")
-		(at 174.625 92.71 270)
+		(lib_id "Device:D")
+		(at 174.625 102.235 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6769,7 +5650,7 @@
 		(dnp no)
 		(uuid "0100b547-db6a-4283-be21-bb647597dc9a")
 		(property "Reference" "D1"
-			(at 179.07 102.235 90)
+			(at 178.435 99.695 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6778,7 +5659,7 @@
 			)
 		)
 		(property "Value" "SK34A-LTP"
-			(at 176.53 105.41 90)
+			(at 178.435 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6787,37 +5668,34 @@
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:SK34ALTP"
-			(at 174.625 104.14 0)
+			(at 174.625 102.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/SK32A-L-SK310A-L(DO-214AC).pdf"
-			(at 172.085 104.14 0)
+		(property "Datasheet" "~"
+			(at 174.625 102.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky Diodes & Rectifiers DIODE SCHOTTKY 40V 3A DO214AC"
-			(at 169.545 104.14 0)
+		(property "Description" "Diode"
+			(at 174.625 102.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Height" "2.44"
-			(at 167.005 104.14 0)
+			(at 167.005 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6827,7 +5705,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "MCC"
-			(at 164.465 104.14 0)
+			(at 164.465 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6837,7 +5715,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK34A-LTP"
-			(at 161.925 104.14 0)
+			(at 161.925 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6847,7 +5725,7 @@
 			)
 		)
 		(property "Mouser Part Number" "833-SK34A-LTP"
-			(at 159.385 104.14 0)
+			(at 159.385 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6857,7 +5735,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/SK34A-LTP?qs=JeAkOuORR2VPwzg48d%252BVAA%3D%3D"
-			(at 156.845 104.14 0)
+			(at 156.845 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6867,7 +5745,7 @@
 			)
 		)
 		(property "Arrow Part Number" "SK34A-LTP"
-			(at 154.305 104.14 0)
+			(at 154.305 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6877,12 +5755,30 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/sk34a-ltp/micro-commercial-components?region=asia"
-			(at 151.765 104.14 0)
+			(at 151.765 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 174.625 102.235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 174.625 102.235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6902,9 +5798,8 @@
 		)
 	)
 	(symbol
-		(lib_name "1752104_1")
-		(lib_id "1752104:1752104")
-		(at 195.58 144.145 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 200.66 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6913,7 +5808,7 @@
 		(fields_autoplaced yes)
 		(uuid "02b6b680-bada-4885-abaa-c47415424e16")
 		(property "Reference" "J2"
-			(at 212.09 144.1449 0)
+			(at 203.2 144.1449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6922,7 +5817,7 @@
 			)
 		)
 		(property "Value" "1752104"
-			(at 212.09 146.6849 0)
+			(at 203.2 146.6849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6930,28 +5825,26 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1752104:SHDR2W90P0X350_1X2_760X1000X1255P"
-			(at 212.09 239.065 0)
+		(property "Footprint" "DaisyBio_Mira:SHDR2W90P0X350_1X2_760X1000X1255P"
+			(at 200.66 144.145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/eeae7e9f9b3a235c7d873ddf4da930cb.pdf"
-			(at 212.09 339.065 0)
+		(property "Datasheet" "~"
+			(at 200.66 144.145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip"
-			(at 195.58 144.145 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 200.66 144.145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6960,7 +5853,7 @@
 			)
 		)
 		(property "Height" "12.55"
-			(at 212.09 539.065 0)
+			(at 217.17 539.065 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6970,7 +5863,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Phoenix Contact"
-			(at 212.09 639.065 0)
+			(at 217.17 639.065 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6980,7 +5873,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1752104"
-			(at 212.09 739.065 0)
+			(at 217.17 739.065 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6990,7 +5883,7 @@
 			)
 		)
 		(property "Mouser Part Number" "651-1752104"
-			(at 212.09 839.065 0)
+			(at 217.17 839.065 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7000,7 +5893,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1752104?qs=Fz3yxlUjJZHh45xXQlykhw%3D%3D"
-			(at 212.09 939.065 0)
+			(at 217.17 939.065 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7010,7 +5903,7 @@
 			)
 		)
 		(property "Arrow Part Number" "1752104"
-			(at 212.09 1039.065 0)
+			(at 217.17 1039.065 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7020,7 +5913,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1752104/phoenix-contact?region=nac"
-			(at 212.09 1139.065 0)
+			(at 217.17 1139.065 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7045,7 +5938,7 @@
 		)
 	)
 	(symbol
-		(lib_id "DRV8220DRLR:DRV8220DRLR")
+		(lib_id "DaisyBio_Mira:DRV8220DRLR")
 		(at 48.895 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7054,7 +5947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02cdf60d-3b11-410e-838c-6bd0db8a9ff0")
-		(property "Reference" "IC1"
+		(property "Reference" "U4"
 			(at 62.865 68.58 0)
 			(effects
 				(font
@@ -7071,102 +5964,101 @@
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:SOTFL50P160X60-6N"
-			(at 73.025 73.66 0)
+			(at 73.025 171.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv8220.pdf?ts=1631525955787&ref_url=https%253A%252F%252Fwww.google.com%252F"
-			(at 73.025 76.2 0)
+			(at 73.025 271.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Description" "DRV8220 18-V H-Bridge Motor Driver with PWM, PH/EN, and Half-Bridge Control Interfaces and Low-Power Sleep Mode"
-			(at 73.025 78.74 0)
+			(at 48.895 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Height" "0.6"
-			(at 73.025 81.28 0)
+			(at 73.025 471.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Manufacturer_Name" "Texas Instruments"
-			(at 73.025 83.82 0)
+			(at 73.025 571.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Manufacturer_Part_Number" "DRV8220DRLR"
-			(at 73.025 86.36 0)
+			(at 73.025 671.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Mouser Part Number" "595-DRV8220DRLR"
-			(at 73.025 88.9 0)
+			(at 73.025 771.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8220DRLR?qs=A6eO%252BMLsxmTbgRMs5Sh%2FhA%3D%3D"
-			(at 73.025 91.44 0)
+			(at 73.025 871.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" ""
-			(at 73.025 93.98 0)
+		(property "Arrow Part Number" "DRV8220DRLR"
+			(at 73.025 971.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" ""
-			(at 73.025 96.52 0)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8220drlr/texas-instruments?utm_currency=USD&region=europe"
+			(at 73.025 1071.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify left top)
 				(hide yes)
 			)
 		)
@@ -7211,7 +6103,7 @@
 		(instances
 			(project ""
 				(path "/cd8749bf-3e4a-4fb4-9f0a-a504f302c717"
-					(reference "IC1")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -7361,8 +6253,8 @@
 		)
 	)
 	(symbol
-		(lib_id "IPD30N08S2L21ATMA1:IPD30N08S2L21ATMA1")
-		(at 159.385 160.655 0)
+		(lib_id "Transistor_FET:Q_NMOS_GDS")
+		(at 164.465 160.655 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7370,7 +6262,7 @@
 		(dnp no)
 		(uuid "100ed1ca-b422-4cff-84c0-e25b70a28cde")
 		(property "Reference" "Q2"
-			(at 158.75 156.21 0)
+			(at 170.815 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7379,7 +6271,7 @@
 			)
 		)
 		(property "Value" "IPD30N08S2L21ATMA1"
-			(at 172.72 169.545 90)
+			(at 170.18 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7388,37 +6280,34 @@
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:IPD30N08S2L21ATMA1"
-			(at 170.815 161.925 0)
+			(at 169.545 158.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IPD30N08S2L_21-DS-v01_00-en.pdf?fileId=db3a304412b407950112b426f6a33b23"
-			(at 170.815 164.465 0)
+		(property "Datasheet" "~"
+			(at 164.465 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Description" "75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS"
-			(at 170.815 167.005 0)
+		(property "Description" "N-MOSFET transistor, gate/drain/source"
+			(at 164.465 160.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Height" "2.5"
-			(at 170.815 169.545 0)
+			(at 175.895 169.545 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7428,7 +6317,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Infineon"
-			(at 170.815 172.085 0)
+			(at 175.895 172.085 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7438,7 +6327,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "IPD30N08S2L21ATMA1"
-			(at 170.815 174.625 0)
+			(at 175.895 174.625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7448,7 +6337,7 @@
 			)
 		)
 		(property "Mouser Part Number" "726-IPD30N08S2L21ATM"
-			(at 170.815 177.165 0)
+			(at 175.895 177.165 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7458,7 +6347,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD30N08S2L21ATMA1?qs=OwbwYO03UsLjtivgYvUgnQ%3D%3D"
-			(at 170.815 179.705 0)
+			(at 175.895 179.705 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7468,7 +6357,7 @@
 			)
 		)
 		(property "Arrow Part Number" "IPD30N08S2L21ATMA1"
-			(at 170.815 182.245 0)
+			(at 175.895 182.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7478,7 +6367,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ipd30n08s2l21atma1/infineon-technologies-ag"
-			(at 170.815 184.785 0)
+			(at 175.895 184.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7705,17 +6594,17 @@
 		)
 	)
 	(symbol
-		(lib_id "B2B-PH-K-S:B2B-PH-K-S")
-		(at 246.38 26.67 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 251.46 29.21 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "16d92cbe-a468-4323-886c-f75df3866d10")
 		(property "Reference" "J5"
-			(at 263.525 26.6699 0)
+			(at 254 29.2101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7724,7 +6613,7 @@
 			)
 		)
 		(property "Value" "B2B-PH-K-S"
-			(at 263.525 29.2099 0)
+			(at 254 26.6701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7732,28 +6621,26 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2B-PH-K-S:B2BPHKS"
-			(at 262.89 121.59 0)
+		(property "Footprint" "DaisyBio_Mira:B2BPHKS"
+			(at 251.46 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
-			(at 262.89 221.59 0)
+		(property "Datasheet" "~"
+			(at 251.46 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "2 Positions Header Connector 0.079\" (2.00mm) Through Hole Tin, 2A, 20 m max., 100V, -25 to +85"
-			(at 246.38 26.67 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 251.46 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7762,7 +6649,7 @@
 			)
 		)
 		(property "Height" "6"
-			(at 262.89 421.59 0)
+			(at 267.97 -365.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7772,7 +6659,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 262.89 521.59 0)
+			(at 267.97 -465.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7782,7 +6669,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "B2B-PH-K-S"
-			(at 262.89 621.59 0)
+			(at 267.97 -565.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7792,7 +6679,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 262.89 721.59 0)
+			(at 267.97 -665.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7802,7 +6689,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 262.89 821.59 0)
+			(at 267.97 -765.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7812,7 +6699,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 262.89 921.59 0)
+			(at 267.97 -865.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7822,7 +6709,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 262.89 1021.59 0)
+			(at 267.97 -965.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7913,8 +6800,8 @@
 		)
 	)
 	(symbol
-		(lib_id "7427932:7427932")
-		(at 182.88 31.75 270)
+		(lib_id "Device:FerriteBead")
+		(at 184.15 26.67 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7922,26 +6809,24 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "267a5d9f-598d-47ff-aeb1-aac0ef100577")
-		(property "Reference" "U4"
-			(at 187.325 38.0999 90)
+		(property "Reference" "FB1"
+			(at 184.2008 13.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "7427932"
-			(at 187.325 40.6399 90)
+			(at 184.2008 16.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:7427932"
-			(at 182.88 31.75 0)
+			(at 184.15 24.892 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7949,8 +6834,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7427932.pdf"
-			(at 182.88 31.75 0)
+		(property "Datasheet" "~"
+			(at 184.15 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7958,8 +6843,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 182.88 31.75 0)
+		(property "Description" "Ferrite bead"
+			(at 184.15 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7968,25 +6853,23 @@
 			)
 		)
 		(property "Reference_1" "FB"
-			(at 187.325 43.1799 90)
+			(at 184.2008 19.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value_1" "7427932"
-			(at 187.325 45.7199 90)
+			(at 184.2008 21.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint_1" "7427932"
-			(at 87.96 48.26 0)
+			(at 89.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7996,7 +6879,7 @@
 			)
 		)
 		(property "Datasheet_1" "https://componentsearchengine.com/Datasheets/2/7427932.pdf"
-			(at -12.04 48.26 0)
+			(at -10.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8006,7 +6889,7 @@
 			)
 		)
 		(property "Height" "3.15"
-			(at -212.04 48.26 0)
+			(at -210.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8016,7 +6899,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at -312.04 48.26 0)
+			(at -310.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8026,7 +6909,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7427932"
-			(at -412.04 48.26 0)
+			(at -410.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8036,7 +6919,7 @@
 			)
 		)
 		(property "Mouser Part Number" "710-7427932"
-			(at -512.04 48.26 0)
+			(at -510.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8046,7 +6929,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/7427932?qs=E%2F%2FhvbtCqpMraVkI3KrIPA%3D%3D"
-			(at -612.04 48.26 0)
+			(at -610.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8056,7 +6939,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at -712.04 48.26 0)
+			(at -710.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8066,7 +6949,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at -812.04 48.26 0)
+			(at -810.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8084,7 +6967,7 @@
 		(instances
 			(project ""
 				(path "/cd8749bf-3e4a-4fb4-9f0a-a504f302c717"
-					(reference "U4")
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -8353,8 +7236,8 @@
 		)
 	)
 	(symbol
-		(lib_id "CL31B106KAHNNNE:CL31B106KAHNNNE")
-		(at 99.06 45.085 90)
+		(lib_id "Device:C")
+		(at 99.06 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8362,7 +7245,7 @@
 		(dnp no)
 		(uuid "4478f3dd-75b3-4f54-a96a-8c78dbe3819f")
 		(property "Reference" "C4"
-			(at 100.965 41.91 90)
+			(at 103.505 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8371,7 +7254,7 @@
 			)
 		)
 		(property "Value" "CL31B106KAHNNNE"
-			(at 100.965 44.45 90)
+			(at 103.505 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8380,27 +7263,25 @@
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:CAPC3216X180N"
-			(at 195.25 36.195 0)
+			(at 98.0948 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/d94547340e0e9d2be5f415b64e4e2f0a.pdf"
-			(at 295.25 36.195 0)
+		(property "Datasheet" "~"
+			(at 99.06 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Samsung Electro-Mechanics CL31B106KAHNNNE 10uF Multilayer Ceramic Capacitor MLCC 25V dc +/-10% Tolerance SMD"
-			(at 99.06 45.085 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 99.06 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8409,7 +7290,7 @@
 			)
 		)
 		(property "Height" "1.8"
-			(at 495.25 36.195 0)
+			(at 90.17 -356.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8419,7 +7300,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMSUNG"
-			(at 595.25 36.195 0)
+			(at 90.17 -456.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8429,7 +7310,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL31B106KAHNNNE"
-			(at 695.25 36.195 0)
+			(at 90.17 -556.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8439,7 +7320,7 @@
 			)
 		)
 		(property "Mouser Part Number" "187-CL31B106KAHNNNE"
-			(at 795.25 36.195 0)
+			(at 90.17 -656.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8449,7 +7330,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31B106KAHNNNE?qs=349EhDEZ59r5EZhnLOTsYA%3D%3D"
-			(at 895.25 36.195 0)
+			(at 90.17 -756.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8459,7 +7340,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CL31B106KAHNNNE"
-			(at 995.25 36.195 0)
+			(at 90.17 -856.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8469,7 +7350,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31b106kahnnne/samsung-electro-mechanics?utm_currency=USD&region=europe"
-			(at 1095.25 36.195 0)
+			(at 90.17 -956.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8560,8 +7441,8 @@
 		)
 	)
 	(symbol
-		(lib_id "742792510:742792510")
-		(at 100.965 26.67 0)
+		(lib_id "Device:L")
+		(at 112.395 26.67 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8570,7 +7451,7 @@
 		(fields_autoplaced yes)
 		(uuid "46975e95-d03f-4436-a480-7dbdb1c325f2")
 		(property "Reference" "U2"
-			(at 111.125 15.24 0)
+			(at 112.395 15.875 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8578,7 +7459,7 @@
 			)
 		)
 		(property "Value" "742792510"
-			(at 111.125 17.78 0)
+			(at 112.395 18.415 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8586,7 +7467,7 @@
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:18122"
-			(at 100.965 26.67 0)
+			(at 112.395 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8594,8 +7475,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/MIDC/MIDC-S-A0013715343/MIDC-S-A0013795848-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0"
-			(at 100.965 26.67 0)
+		(property "Datasheet" "~"
+			(at 112.395 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8603,8 +7484,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 100.965 26.67 0)
+		(property "Description" "Inductor"
+			(at 112.395 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8613,7 +7494,7 @@
 			)
 		)
 		(property "Reference_1" "L"
-			(at 111.125 20.32 0)
+			(at 112.395 20.955 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8621,7 +7502,7 @@
 			)
 		)
 		(property "Value_1" "742792510"
-			(at 111.125 22.86 0)
+			(at 112.395 23.495 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8629,7 +7510,7 @@
 			)
 		)
 		(property "Footprint_1" "18122"
-			(at 117.475 122.86 0)
+			(at 208.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8639,7 +7520,7 @@
 			)
 		)
 		(property "Datasheet_1" ""
-			(at 117.475 222.86 0)
+			(at 308.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8649,7 +7530,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 117.475 422.86 0)
+			(at 508.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8659,7 +7540,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at 117.475 522.86 0)
+			(at 608.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8669,7 +7550,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "742792510"
-			(at 117.475 622.86 0)
+			(at 708.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8679,7 +7560,7 @@
 			)
 		)
 		(property "Mouser Part Number" "710-742792510"
-			(at 117.475 722.86 0)
+			(at 808.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8689,7 +7570,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/742792510?qs=5twSNpOB8IABB9Afmrmq3A%3D%3D"
-			(at 117.475 822.86 0)
+			(at 908.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8699,7 +7580,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 117.475 922.86 0)
+			(at 1008.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8709,7 +7590,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 117.475 1022.86 0)
+			(at 1108.585 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8734,7 +7615,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MIC4427YM-TR:MIC4427YM-TR")
+		(lib_id "DaisyBio_Mira:MIC4427YM-TR")
 		(at 71.12 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8744,7 +7625,7 @@
 		(fields_autoplaced yes)
 		(uuid "4dc4bd68-b812-4fca-b3bf-b62f08565ac8")
 		(property "Reference" "U1"
-			(at 85.09 104.775 0)
+			(at 85.09 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8752,7 +7633,7 @@
 			)
 		)
 		(property "Value" "MIC4427YM-TR"
-			(at 85.09 107.315 0)
+			(at 85.09 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8760,24 +7641,26 @@
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:SOIC127P599X173-8N"
-			(at 71.12 118.11 0)
+			(at 95.25 213.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/MCHP/MCHP-S-A0008387485/MCHP-S-A0008387485-1.pdf?hkey=61A2E4C270F0397D049F8F05BD4F1054"
-			(at 71.12 118.11 0)
+		(property "Datasheet" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579187"
+			(at 95.25 313.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Gate Drivers 1.5A Dual High Speed MOSFET Driver"
 			(at 71.12 118.11 0)
 			(effects
 				(font
@@ -8787,7 +7670,7 @@
 			)
 		)
 		(property "Reference_1" "IC"
-			(at 85.09 109.855 0)
+			(at 85.09 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8795,7 +7678,7 @@
 			)
 		)
 		(property "Value_1" "MIC4427YM-TR"
-			(at 85.09 112.395 0)
+			(at 85.09 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8926,7 +7809,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
+		(lib_id "Device:R_US")
 		(at 156.845 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8954,7 +7837,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 155.067 170.18 90)
+			(at 157.861 170.434 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8971,7 +7854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, US symbol"
 			(at 156.845 170.18 0)
 			(effects
 				(font
@@ -9194,7 +8077,7 @@
 	(symbol
 		(lib_name "GND_4")
 		(lib_id "power:GND")
-		(at 234.95 59.055 0)
+		(at 234.95 51.435 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9203,7 +8086,7 @@
 		(fields_autoplaced yes)
 		(uuid "6174e0d5-2d6b-4e06-81b2-ac6becb8d201")
 		(property "Reference" "#PWR014"
-			(at 234.95 65.405 0)
+			(at 234.95 57.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9212,7 +8095,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 234.95 63.5 0)
+			(at 234.95 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9220,7 +8103,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 234.95 59.055 0)
+			(at 234.95 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9229,7 +8112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 59.055 0)
+			(at 234.95 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9238,7 +8121,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 234.95 59.055 0)
+			(at 234.95 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9457,7 +8340,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
+		(lib_id "Device:R_US")
 		(at 169.545 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9467,7 +8350,7 @@
 		(fields_autoplaced yes)
 		(uuid "6bee4db5-63c4-4357-bb94-01ce3ed6c6ce")
 		(property "Reference" "R2"
-			(at 172.085 45.7199 0)
+			(at 171.45 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9476,7 +8359,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 172.085 48.2599 0)
+			(at 171.45 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9485,7 +8368,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 167.767 46.99 90)
+			(at 170.561 47.244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9502,7 +8385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, US symbol"
 			(at 169.545 46.99 0)
 			(effects
 				(font
@@ -9528,7 +8411,8 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 89.535 74.295 0)
+		(at 89.535 83.185 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9536,7 +8420,7 @@
 		(dnp no)
 		(uuid "6cf2904d-c508-46ac-87b8-45d6a828feb8")
 		(property "Reference" "TP7"
-			(at 99.695 72.39 0)
+			(at 99.695 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9545,7 +8429,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 99.695 69.85 0)
+			(at 99.695 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9554,7 +8438,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 94.615 74.295 0)
+			(at 94.615 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9563,7 +8447,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 94.615 74.295 0)
+			(at 94.615 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9572,7 +8456,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 89.535 74.295 0)
+			(at 89.535 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9593,8 +8477,8 @@
 		)
 	)
 	(symbol
-		(lib_id "IPD30N08S2L21ATMA1:IPD30N08S2L21ATMA1")
-		(at 155.575 105.41 0)
+		(lib_id "Transistor_FET:Q_NMOS_GDS")
+		(at 160.655 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9602,7 +8486,7 @@
 		(dnp no)
 		(uuid "764944ff-9165-4bd4-a460-ef0fff82579c")
 		(property "Reference" "Q1"
-			(at 156.21 97.79 0)
+			(at 165.735 106.045 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9611,7 +8495,7 @@
 			)
 		)
 		(property "Value" "IPD30N08S2L21ATMA1"
-			(at 168.275 111.125 90)
+			(at 165.735 108.585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9620,37 +8504,34 @@
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:IPD30N08S2L21ATMA1"
-			(at 167.005 106.68 0)
+			(at 165.735 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IPD30N08S2L_21-DS-v01_00-en.pdf?fileId=db3a304412b407950112b426f6a33b23"
-			(at 167.005 109.22 0)
+		(property "Datasheet" "~"
+			(at 160.655 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Description" "75V, N-Ch, 20.5 m max, Automotive MOSFET, DPAK, OptiMOS"
-			(at 167.005 111.76 0)
+		(property "Description" "N-MOSFET transistor, gate/drain/source"
+			(at 160.655 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Height" "2.5"
-			(at 167.005 114.3 0)
+			(at 172.085 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9660,7 +8541,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Infineon"
-			(at 167.005 116.84 0)
+			(at 172.085 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9670,7 +8551,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "IPD30N08S2L21ATMA1"
-			(at 167.005 119.38 0)
+			(at 172.085 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9680,7 +8561,7 @@
 			)
 		)
 		(property "Mouser Part Number" "726-IPD30N08S2L21ATM"
-			(at 167.005 121.92 0)
+			(at 172.085 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9690,7 +8571,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD30N08S2L21ATMA1?qs=OwbwYO03UsLjtivgYvUgnQ%3D%3D"
-			(at 167.005 124.46 0)
+			(at 172.085 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9700,7 +8581,7 @@
 			)
 		)
 		(property "Arrow Part Number" "IPD30N08S2L21ATMA1"
-			(at 167.005 127 0)
+			(at 172.085 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9710,7 +8591,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ipd30n08s2l21atma1/infineon-technologies-ag"
-			(at 167.005 129.54 0)
+			(at 172.085 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9936,17 +8817,17 @@
 		)
 	)
 	(symbol
-		(lib_id "B5B-PH-K-S:B5B-PH-K-S")
-		(at 247.015 95.885 0)
+		(lib_id "Connector_Generic:Conn_01x05")
+		(at 252.095 100.965 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8f4d038f-00d6-49ae-aa25-14cb938aacf5")
 		(property "Reference" "J17"
-			(at 264.16 99.6949 0)
+			(at 255.27 102.2351 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9955,7 +8836,7 @@
 			)
 		)
 		(property "Value" "B5B-PH-K-S"
-			(at 264.16 102.2349 0)
+			(at 255.27 99.6951 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9963,28 +8844,26 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B5B-PH-K-S:B5BPHKS"
-			(at 263.525 190.805 0)
+		(property "Footprint" "DaisyBio_Mira:B5BPHKS"
+			(at 252.095 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/JST%20PDFs/PH%20Series.pdf"
-			(at 263.525 290.805 0)
+		(property "Datasheet" "~"
+			(at 252.095 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector Header Through Hole 5 position 0.079\" (2.00mm)"
-			(at 247.015 95.885 0)
+		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 252.095 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9993,7 +8872,7 @@
 			)
 		)
 		(property "Height" "6"
-			(at 263.525 490.805 0)
+			(at 268.605 -293.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10003,7 +8882,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 263.525 590.805 0)
+			(at 268.605 -393.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10013,7 +8892,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "B5B-PH-K-S"
-			(at 263.525 690.805 0)
+			(at 268.605 -493.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10023,7 +8902,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 263.525 790.805 0)
+			(at 268.605 -593.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10033,7 +8912,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 263.525 890.805 0)
+			(at 268.605 -693.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10043,7 +8922,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 263.525 990.805 0)
+			(at 268.605 -793.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10053,7 +8932,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 263.525 1090.805 0)
+			(at 268.605 -893.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10087,7 +8966,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
+		(lib_id "Device:R_US")
 		(at 234.95 33.655 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10115,7 +8994,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 233.172 33.655 90)
+			(at 235.966 33.909 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10132,7 +9011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, US symbol"
 			(at 234.95 33.655 0)
 			(effects
 				(font
@@ -10157,7 +9036,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
+		(lib_id "Device:R_US")
 		(at 169.545 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10167,7 +9046,7 @@
 		(fields_autoplaced yes)
 		(uuid "94476111-abc1-444d-b917-c258d6156d92")
 		(property "Reference" "R1"
-			(at 172.085 33.0199 0)
+			(at 171.45 33.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10176,7 +9055,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 172.085 35.5599 0)
+			(at 171.45 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10185,7 +9064,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 167.767 34.29 90)
+			(at 170.561 34.544 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10202,7 +9081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, US symbol"
 			(at 169.545 34.29 0)
 			(effects
 				(font
@@ -10304,7 +9183,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
+		(lib_id "Device:R_US")
 		(at 48.895 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10332,7 +9211,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 47.117 134.62 90)
+			(at 49.911 134.874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10349,7 +9228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, US symbol"
 			(at 48.895 134.62 0)
 			(effects
 				(font
@@ -10374,17 +9253,17 @@
 		)
 	)
 	(symbol
-		(lib_id "B2B-PH-K-S:B2B-PH-K-S")
-		(at 247.65 121.92 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 252.73 124.46 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "992fcf4b-f11f-43cc-abc7-5dd4e3be4f46")
 		(property "Reference" "J14"
-			(at 264.795 121.9199 0)
+			(at 255.27 124.4601 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10393,7 +9272,7 @@
 			)
 		)
 		(property "Value" "B2B-PH-K-S"
-			(at 264.795 124.4599 0)
+			(at 255.27 121.9201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10401,28 +9280,26 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2B-PH-K-S:B2BPHKS"
-			(at 264.16 216.84 0)
+		(property "Footprint" "DaisyBio_Mira:B2BPHKS"
+			(at 252.73 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
-			(at 264.16 316.84 0)
+		(property "Datasheet" "~"
+			(at 252.73 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "2 Positions Header Connector 0.079\" (2.00mm) Through Hole Tin, 2A, 20 m max., 100V, -25 to +85"
-			(at 247.65 121.92 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 252.73 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10431,7 +9308,7 @@
 			)
 		)
 		(property "Height" "6"
-			(at 264.16 516.84 0)
+			(at 269.24 -270.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10441,7 +9318,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 264.16 616.84 0)
+			(at 269.24 -370.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10451,7 +9328,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "B2B-PH-K-S"
-			(at 264.16 716.84 0)
+			(at 269.24 -470.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10461,7 +9338,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 264.16 816.84 0)
+			(at 269.24 -570.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10471,7 +9348,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 264.16 916.84 0)
+			(at 269.24 -670.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10481,7 +9358,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 264.16 1016.84 0)
+			(at 269.24 -770.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10491,7 +9368,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 264.16 1116.84 0)
+			(at 269.24 -870.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10516,8 +9393,9 @@
 		)
 	)
 	(symbol
-		(lib_id "B2B-PH-K-S:B2B-PH-K-S")
-		(at 163.195 78.105 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 168.275 80.645 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10525,7 +9403,7 @@
 		(dnp no)
 		(uuid "9c6f07a3-a42d-41f4-be8f-bdcdcb10910d")
 		(property "Reference" "J16"
-			(at 168.275 71.12 0)
+			(at 170.815 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10534,7 +9412,7 @@
 			)
 		)
 		(property "Value" "B2B-PH-K-S"
-			(at 168.275 73.66 0)
+			(at 168.91 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10542,28 +9420,26 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2B-PH-K-S:B2BPHKS"
-			(at 179.705 173.025 0)
+		(property "Footprint" "DaisyBio_Mira:B2BPHKS"
+			(at 168.275 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
-			(at 179.705 273.025 0)
+		(property "Datasheet" "~"
+			(at 168.275 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "2 Positions Header Connector 0.079\" (2.00mm) Through Hole Tin, 2A, 20 m max., 100V, -25 to +85"
-			(at 163.195 78.105 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 168.275 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10572,7 +9448,7 @@
 			)
 		)
 		(property "Height" "6"
-			(at 179.705 473.025 0)
+			(at 184.785 -314.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10582,7 +9458,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 179.705 573.025 0)
+			(at 184.785 -414.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10592,7 +9468,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "B2B-PH-K-S"
-			(at 179.705 673.025 0)
+			(at 184.785 -514.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10602,7 +9478,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 179.705 773.025 0)
+			(at 184.785 -614.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10612,7 +9488,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 179.705 873.025 0)
+			(at 184.785 -714.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10622,7 +9498,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 179.705 973.025 0)
+			(at 184.785 -814.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10632,7 +9508,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 179.705 1073.025 0)
+			(at 184.785 -914.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10854,8 +9730,8 @@
 		)
 	)
 	(symbol
-		(lib_id "150120VS75000:150120VS75000")
-		(at 234.95 55.88 90)
+		(lib_id "Device:LED")
+		(at 234.95 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10864,7 +9740,7 @@
 		(fields_autoplaced yes)
 		(uuid "a95a31b6-b4de-4462-b3f6-afcc0a6f0eef")
 		(property "Reference" "LED1"
-			(at 238.76 46.9899 90)
+			(at 238.76 44.7674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10873,7 +9749,7 @@
 			)
 		)
 		(property "Value" "150120VS75000"
-			(at 238.76 49.5299 90)
+			(at 238.76 47.3074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10881,28 +9757,26 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "150120VS75000:LEDC3216X78N"
-			(at 328.6 43.18 0)
+		(property "Footprint" "DaisyBio_Mira:LEDC3216X78N"
+			(at 234.95 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/150120VS75000.pdf"
-			(at 428.6 43.18 0)
+		(property "Datasheet" "~"
+			(at 234.95 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Description" "Wurth Elektronik 150120VS75000, WL-SMCW Series Green LED, 570 nm, 3016 (1206) Clear, Rectangle Lens SMD Package"
-			(at 234.95 55.88 0)
+		(property "Description" "Light emitting diode"
+			(at 234.95 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10911,7 +9785,7 @@
 			)
 		)
 		(property "Height" "0.78"
-			(at 628.6 43.18 0)
+			(at 628.6 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10921,7 +9795,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at 728.6 43.18 0)
+			(at 728.6 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10931,7 +9805,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "150120VS75000"
-			(at 828.6 43.18 0)
+			(at 828.6 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10941,7 +9815,7 @@
 			)
 		)
 		(property "Mouser Part Number" "710-150120VS75000"
-			(at 928.6 43.18 0)
+			(at 928.6 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10951,7 +9825,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150120VS75000?qs=LlUlMxKIyB19Jz1m%2F52oVA%3D%3D"
-			(at 1028.6 43.18 0)
+			(at 1028.6 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10961,7 +9835,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 1128.6 43.18 0)
+			(at 1128.6 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10971,12 +9845,21 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 1228.6 43.18 0)
+			(at 1228.6 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -11060,7 +9943,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
+		(lib_id "Device:R_US")
 		(at 153.67 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11088,7 +9971,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 151.892 115.57 90)
+			(at 154.686 115.824 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11105,7 +9988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, US symbol"
 			(at 153.67 115.57 0)
 			(effects
 				(font
@@ -11405,9 +10288,8 @@
 		)
 	)
 	(symbol
-		(lib_name "1752104_2")
-		(lib_id "1752104:1752104")
-		(at 88.9 29.21 180)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 83.82 29.21 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11416,7 +10298,7 @@
 		(fields_autoplaced yes)
 		(uuid "c397d30d-0430-4f95-9577-dd336cf67cfd")
 		(property "Reference" "J3"
-			(at 78.74 19.05 0)
+			(at 83.82 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11424,35 +10306,33 @@
 			)
 		)
 		(property "Value" "1752104"
-			(at 78.74 21.59 0)
+			(at 83.82 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "1752104:SHDR2W90P0X350_1X2_760X1000X1255P"
-			(at 72.39 -65.71 0)
+		(property "Footprint" "DaisyBio_Mira:SHDR2W90P0X350_1X2_760X1000X1255P"
+			(at 83.82 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/eeae7e9f9b3a235c7d873ddf4da930cb.pdf"
-			(at 72.39 -165.71 0)
+		(property "Datasheet" "~"
+			(at 83.82 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Phoenix Contact COMBICON SPTA, 2 Way PCB Terminal Strip"
-			(at 88.9 29.21 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 83.82 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11461,7 +10341,7 @@
 			)
 		)
 		(property "Height" "12.55"
-			(at 72.39 -365.71 0)
+			(at 67.31 -365.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11471,7 +10351,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Phoenix Contact"
-			(at 72.39 -465.71 0)
+			(at 67.31 -465.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11481,7 +10361,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1752104"
-			(at 72.39 -565.71 0)
+			(at 67.31 -565.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11491,7 +10371,7 @@
 			)
 		)
 		(property "Mouser Part Number" "651-1752104"
-			(at 72.39 -665.71 0)
+			(at 67.31 -665.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11501,7 +10381,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1752104?qs=Fz3yxlUjJZHh45xXQlykhw%3D%3D"
-			(at 72.39 -765.71 0)
+			(at 67.31 -765.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11511,7 +10391,7 @@
 			)
 		)
 		(property "Arrow Part Number" "1752104"
-			(at 72.39 -865.71 0)
+			(at 67.31 -865.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11521,7 +10401,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1752104/phoenix-contact?region=nac"
-			(at 72.39 -965.71 0)
+			(at 67.31 -965.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11612,7 +10492,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
+		(lib_id "Device:R_US")
 		(at 56.515 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11640,7 +10520,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 54.737 134.62 90)
+			(at 57.531 134.874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11657,7 +10537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, US symbol"
 			(at 56.515 134.62 0)
 			(effects
 				(font
@@ -11827,7 +10707,8 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 89.535 83.82 180)
+		(at 89.535 73.66 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11835,7 +10716,7 @@
 		(dnp no)
 		(uuid "eec30733-7180-4acf-90b3-f857073251c5")
 		(property "Reference" "TP8"
-			(at 84.455 88.265 0)
+			(at 84.455 69.215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11844,7 +10725,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 84.455 90.805 0)
+			(at 84.455 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11853,7 +10734,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 84.455 83.82 0)
+			(at 84.455 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11862,7 +10743,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 84.455 83.82 0)
+			(at 84.455 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11871,7 +10752,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 89.535 83.82 0)
+			(at 89.535 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12029,17 +10910,17 @@
 		)
 	)
 	(symbol
-		(lib_id "B2B-PH-K-S:B2B-PH-K-S")
-		(at 247.65 143.51 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 252.73 146.05 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f6639b38-2853-4fcc-98a4-74998ae4b576")
 		(property "Reference" "J15"
-			(at 264.16 143.5099 0)
+			(at 255.27 146.0501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12048,7 +10929,7 @@
 			)
 		)
 		(property "Value" "B2B-PH-K-S"
-			(at 264.16 146.0499 0)
+			(at 255.27 143.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12056,28 +10937,26 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2B-PH-K-S:B2BPHKS"
-			(at 264.16 238.43 0)
+		(property "Footprint" "DaisyBio_Mira:B2BPHKS"
+			(at 252.73 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
-			(at 264.16 338.43 0)
+		(property "Datasheet" "~"
+			(at 252.73 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "2 Positions Header Connector 0.079\" (2.00mm) Through Hole Tin, 2A, 20 m max., 100V, -25 to +85"
-			(at 247.65 143.51 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 252.73 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12086,7 +10965,7 @@
 			)
 		)
 		(property "Height" "6"
-			(at 264.16 538.43 0)
+			(at 269.24 -248.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12096,7 +10975,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 264.16 638.43 0)
+			(at 269.24 -348.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12106,7 +10985,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "B2B-PH-K-S"
-			(at 264.16 738.43 0)
+			(at 269.24 -448.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12116,7 +10995,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 264.16 838.43 0)
+			(at 269.24 -548.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12126,7 +11005,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 264.16 938.43 0)
+			(at 269.24 -648.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12136,7 +11015,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 264.16 1038.43 0)
+			(at 269.24 -748.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12146,7 +11025,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 264.16 1138.43 0)
+			(at 269.24 -848.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12237,8 +11116,8 @@
 		)
 	)
 	(symbol
-		(lib_id "CL31B226KPHNNNE:CL31B226KPHNNNE")
-		(at 201.295 44.45 90)
+		(lib_id "Device:C")
+		(at 201.295 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12246,7 +11125,7 @@
 		(dnp no)
 		(uuid "fc3eaf63-dc55-44c3-9b90-a483115e6805")
 		(property "Reference" "C9"
-			(at 203.2 41.275 90)
+			(at 205.74 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12255,7 +11134,7 @@
 			)
 		)
 		(property "Value" "CL31B226KPHNNNE"
-			(at 203.2 43.815 90)
+			(at 203.2 43.815 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12264,27 +11143,25 @@
 			)
 		)
 		(property "Footprint" "DaisyBio_Mira:CAPC3216X180N"
-			(at 297.485 35.56 0)
+			(at 200.3298 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf"
-			(at 397.485 35.56 0)
+		(property "Datasheet" "~"
+			(at 201.295 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "22F +/-10% 10V Ceramic Capacitor X7R 1206 (3216 Metric)"
-			(at 201.295 44.45 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 201.295 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12293,7 +11170,7 @@
 			)
 		)
 		(property "Height" "1.8"
-			(at 597.485 35.56 0)
+			(at 192.405 -355.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12303,7 +11180,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMSUNG"
-			(at 697.485 35.56 0)
+			(at 192.405 -455.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12313,7 +11190,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL31B226KPHNNNE"
-			(at 797.485 35.56 0)
+			(at 192.405 -555.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12323,7 +11200,7 @@
 			)
 		)
 		(property "Mouser Part Number" "187-CL31B226KPHNNNE"
-			(at 897.485 35.56 0)
+			(at 192.405 -655.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12333,7 +11210,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31B226KPHNNNE?qs=EHbfJsBkB6nWZLDFWYPW4w%3D%3D"
-			(at 997.485 35.56 0)
+			(at 192.405 -755.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12343,7 +11220,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CL31B226KPHNNNE"
-			(at 1097.485 35.56 0)
+			(at 192.405 -855.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12353,7 +11230,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31b226kphnnne/samsung-electro-mechanics?region=nac"
-			(at 1197.485 35.56 0)
+			(at 192.405 -955.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
