@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLM18KG121TN1D
+D BLM18_N1D Series EMI Suppression Filter 120+/-25% at 100MHz 3A @85
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD3V3L1BA
+D TVS Diode Bi-Directional PESD3V3L1BA 26V, 500W, UMD 2-Pin
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-26/DSA-502681.pdf
+$ENDCMP
+#
+#End Doc Library

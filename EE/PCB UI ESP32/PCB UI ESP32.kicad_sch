@@ -1,0 +1,229 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "999a9de1-b184-4a7a-88ce-e26d61a272e3")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 17.78 147.955)
+		(size 63.5 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3140b740-3fe6-410a-a480-1e05788b1574")
+		(property "Sheetname" "Power"
+			(at 17.78 146.3784 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 17.78 167.5896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB UI ESP32"
+				(path "/999a9de1-b184-4a7a-88ce-e26d61a272e3"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 85.09)
+		(size 62.23 18.415)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "31de8d05-f5b6-48e1-a64a-e45d705fb9ae")
+		(property "Sheetname" "SD Card Connector"
+			(at 19.05 83.5134 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SD Card Connector.kicad_sch"
+			(at 19.05 104.0896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB UI ESP32"
+				(path "/999a9de1-b184-4a7a-88ce-e26d61a272e3"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.685 24.765)
+		(size 61.595 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "67ac298c-1465-41fe-bb17-7ba26abd0305")
+		(property "Sheetname" "Microcontroller"
+			(at 19.685 23.1884 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 19.685 43.1296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB UI ESP32"
+				(path "/999a9de1-b184-4a7a-88ce-e26d61a272e3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 53.975)
+		(size 62.23 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c37df28e-51bb-4f86-8b81-b259647aa47a")
+		(property "Sheetname" "Display"
+			(at 19.05 52.3984 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Display.kicad_sch"
+			(at 19.05 72.3396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB UI ESP32"
+				(path "/999a9de1-b184-4a7a-88ce-e26d61a272e3"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 18.415 116.205)
+		(size 62.865 18.415)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fae1c1af-89ba-4c18-88bc-46f514e9bd6f")
+		(property "Sheetname" "Overview"
+			(at 18.415 114.6284 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Overview.kicad_sch"
+			(at 18.415 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB UI ESP32"
+				(path "/999a9de1-b184-4a7a-88ce-e26d61a272e3"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,61 @@
+PCBNEW-LibModule-V1  2023-10-11 01:00:11
+# encoding utf-8
+Units mm
+$INDEX
+WS2812
+$EndINDEX
+$MODULE WS2812
+Po 0 0 0 15 6525e58b 00000000 ~~
+Li WS2812
+Cd WS2812
+Kw LED
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 0 0 1.27 1.27 0 0.254 N V 21 N "LED**"
+T1 0 0 1.27 1.27 0 0.254 N I 21 N "WS2812"
+DS -2.5 -2.5 2.5 -2.5 0.1 24
+DS 2.5 -2.5 2.5 2.5 0.1 24
+DS 2.5 2.5 -2.5 2.5 0.1 24
+DS -2.5 2.5 -2.5 -2.5 0.1 24
+DS -2.5 -2.5 2.5 -2.5 0.1 21
+DS 3.307 2.5 -2.5 2.5 0.1 21
+$PAD
+Po 2.45 1.6
+Sh "1" R 1 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.45 0
+Sh "2" R 1 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.45 -1.6
+Sh "3" R 1 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -2.45 -1.6
+Sh "4" R 1 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -2.45 0
+Sh "5" R 1 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -2.45 1.6
+Sh "6" R 1 1.5 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE WS2812
+$EndLIBRARY

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABLS2-12.000MHZ-D4Y-T
+D HC/49US (AT49) LOW PROFILE SURFACE MOUNT MICROPROCESSOR CRYSTAL
+K
+F https://abracon.com/Resonators/abls.pdf
+$ENDCMP
+#
+#End Doc Library
