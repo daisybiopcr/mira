@@ -1,0 +1,237 @@
+(footprint "SOT95P240X120-3N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "BAT54")
+	(tags "Diode")
+	(property "Reference" "D**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "f5413446-3ec0-4d05-a337-fc75f4ad9483")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SOT95P240X120-3N"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a9e45683-b5da-439f-90bf-df385b4ed036")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b4a58000-a458-459b-b697-0c348b879266")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e6fee2c-f4fc-4f60-a0f4-6a902b4d81ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.7 -1.55)
+		(end -0.7 -1.55)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2ae203d0-6a8f-4d4f-aa0a-3e1855096239")
+	)
+	(fp_line
+		(start -0.35 -1.46)
+		(end 0.35 -1.46)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "24ea6ea0-2f37-4188-b861-ab9fe3558530")
+	)
+	(fp_line
+		(start -0.35 1.46)
+		(end -0.35 -1.46)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1aabe048-e68d-48bd-9078-172370adf19a")
+	)
+	(fp_line
+		(start 0.35 -1.46)
+		(end 0.35 1.46)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "51bdcb83-206b-492b-9d6b-ffbb744d2a9e")
+	)
+	(fp_line
+		(start 0.35 1.46)
+		(end -0.35 1.46)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0ac5a54-137f-4bf8-b6eb-7324b65c15aa")
+	)
+	(fp_line
+		(start -1.95 -1.81)
+		(end 1.95 -1.81)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "86054d9b-2931-4dd6-9221-5bad08dfd4c3")
+	)
+	(fp_line
+		(start -1.95 1.81)
+		(end -1.95 -1.81)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "55cc9c04-31d0-4f40-9b1a-27894069f81a")
+	)
+	(fp_line
+		(start 1.95 -1.81)
+		(end 1.95 1.81)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ca10bf54-5c28-4956-97ca-3e335eef80b1")
+	)
+	(fp_line
+		(start 1.95 1.81)
+		(end -1.95 1.81)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7e93f323-5ef0-46e4-8525-ac97904cca3d")
+	)
+	(fp_line
+		(start -0.662 -1.46)
+		(end 0.662 -1.46)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "14847868-9e55-434f-aee2-6877f8d15f0a")
+	)
+	(fp_line
+		(start -0.662 -0.51)
+		(end 0.288 -1.46)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6fd8914-cb67-47a3-9e45-8c3bd86062b6")
+	)
+	(fp_line
+		(start -0.662 1.46)
+		(end -0.662 -1.46)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "78ef801c-f2ea-4f66-a9ef-65ff47abad38")
+	)
+	(fp_line
+		(start 0.662 -1.46)
+		(end 0.662 1.46)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "46142a0f-9820-464b-981a-0ec8ca08770a")
+	)
+	(fp_line
+		(start 0.662 1.46)
+		(end -0.662 1.46)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5ab8f4d-bda8-4f69-9f96-50d1fee0be8c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "0ab1a2bc-368a-4714-8e7a-247163f8fbae")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.2 -0.95 90)
+		(size 0.7 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c73d55a8-eefd-4c43-bad4-0e169b8afea9")
+	)
+	(pad "2" smd rect
+		(at -1.2 0.95 90)
+		(size 0.7 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "64512384-7e46-4be0-b7a8-f3554bdc57f9")
+	)
+	(pad "3" smd rect
+		(at 1.2 0 90)
+		(size 0.7 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "929e3697-fa47-4874-9e03-7cdf3240378e")
+	)
+	(embedded_fonts no)
+	(model "BAT54.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
