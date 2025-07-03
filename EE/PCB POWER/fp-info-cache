@@ -1,4 +1,40 @@
+<<<<<<< Updated upstream
 24884675133401706
+=======
+<<<<<<< HEAD
+25649828799429502
+150120VS75000
+LEDC3216X78N
+150120VS75000
+LED
+0
+2
+2
+1752104
+SHDR2W90P0X350_1X2_760X1000X1255P
+FDS2582
+Connector
+0
+2
+2
+7427932
+7427932
+WE-PBF_742793253
+Ferrite Bead
+0
+2
+2
+742792510
+18122
+18122
+Inductor
+0
+2
+2
+=======
+24884675133401706
+>>>>>>> 68c993ded6f45f6d441a3edf224569e6a51c28a2
+>>>>>>> Stashed changes
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55229,6 +55265,19 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+DRV8220DRLR
+SOTFL50P160X60-6N
+DRL0006A
+Integrated Circuit
+0
+6
+6
+=======
+>>>>>>> 68c993ded6f45f6d441a3edf224569e6a51c28a2
+>>>>>>> Stashed changes
 DaisyBio_Mira
 18122
 18122
@@ -55244,6 +55293,11 @@ Ferrite Bead
 2
 2
 DaisyBio_Mira
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 B2BPHKS
 B2B-PH-K-S-7
 Connector
@@ -55251,6 +55305,10 @@ Connector
 2
 2
 DaisyBio_Mira
+<<<<<<< Updated upstream
+=======
+>>>>>>> 68c993ded6f45f6d441a3edf224569e6a51c28a2
+>>>>>>> Stashed changes
 B2B_ZR
 
 B2B-ZR 
@@ -55258,6 +55316,11 @@ B2B-ZR
 2
 2
 DaisyBio_Mira
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 B5BPHKS
 B5B-PH-K-S-2
 Connector
@@ -55265,6 +55328,10 @@ Connector
 5
 5
 DaisyBio_Mira
+<<<<<<< Updated upstream
+=======
+>>>>>>> 68c993ded6f45f6d441a3edf224569e6a51c28a2
+>>>>>>> Stashed changes
 BM02B-GHS-TBT_1
 BM02B-GHS-TBT
 Connector
@@ -55300,6 +55367,11 @@ MOSFET (N-Channel)
 3
 3
 DaisyBio_Mira
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 LEDC3216X78N
 150120VS75000
 LED
@@ -55307,6 +55379,10 @@ LED
 2
 2
 DaisyBio_Mira
+<<<<<<< Updated upstream
+=======
+>>>>>>> 68c993ded6f45f6d441a3edf224569e6a51c28a2
+>>>>>>> Stashed changes
 R7465P
 R-746.5P-2
 Power Supply
@@ -58589,6 +58665,13 @@ heatsink
 0
 0
 0
+IPD30N08S2L21ATMA1
+IPD30N08S2L21ATMA1
+IPD30N08S2L21ATMA1-2
+MOSFET (N-Channel)
+0
+3
+3
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -66002,6 +66085,18 @@ Yellow 5381 Series LED
 0
 2
 2
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+MIC4427YM-TR
+SOIC127P599X173-8N
+8 SOIC (M)
+Integrated Circuit
+0
+8
+8
+=======
+>>>>>>> Stashed changes
 MEC_Studio
 74AVC4TD245BQ
 
@@ -66142,6 +66237,10 @@ audio_board_logo_v1
 0
 0
 0
+<<<<<<< Updated upstream
+=======
+>>>>>>> 68c993ded6f45f6d441a3edf224569e6a51c28a2
+>>>>>>> Stashed changes
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -91489,6 +91588,15 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+SK34A-LTP
+SK34ALTP
+SK34A-LTP-4
+Diode
+=======
+>>>>>>> Stashed changes
 Sample_Pad_footprints
 ADS7830_module
 
@@ -91612,6 +91720,10 @@ Sample_Pad_footprints
 resistive_touch_pad
 
 
+<<<<<<< Updated upstream
+=======
+>>>>>>> 68c993ded6f45f6d441a3edf224569e6a51c28a2
+>>>>>>> Stashed changes
 0
 2
 2
@@ -93470,6 +93582,20 @@ Logo WEEE
 0
 0
 0
+T1M-02-F-SV-L
+SAMTEC_T1M-02-F-SV-L-P
+1MM TERMINAL STRIP, 5PINS.
+
+0
+4
+4
+T1M-05-F-SV-L
+SAMTEC_T1M-05-F-SV-L
+
+
+0
+7
+7
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
