@@ -1,4 +1,4 @@
-24884675133401706
+24932144562799894
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55244,6 +55244,27 @@ Ferrite Bead
 2
 2
 DaisyBio_Mira
+10067847001RLF
+10067847-001RLF-2
+Connector
+0
+13
+12
+DaisyBio_Mira
+693063020911
+693063020911
+Connector
+0
+15
+15
+DaisyBio_Mira
+ABLS
+ABLS
+Crystal or Oscillator
+0
+2
+2
+DaisyBio_Mira
 B2BPHKS
 B2B-PH-K-S-7
 Connector
@@ -55258,12 +55279,26 @@ B2B-ZR
 2
 2
 DaisyBio_Mira
+B3F3100
+B3F-3100
+Switch
+0
+4
+4
+DaisyBio_Mira
 B5BPHKS
 B5B-PH-K-S-2
 Connector
 0
 5
 5
+DaisyBio_Mira
+BLM18EG101TH1D
+BLM18_2 L=1.6 W=0.8 T=0.5
+Ferrite Bead
+0
+2
+2
 DaisyBio_Mira
 BM02B-GHS-TBT_1
 BM02B-GHS-TBT
@@ -55293,6 +55328,20 @@ Capacitor
 2
 2
 DaisyBio_Mira
+FTSH-107-XX-YYY-D-RA
+FTSH-107-XX-YYY-D-RA
+Connector
+0
+14
+14
+DaisyBio_Mira
+HDRV20W64P0X254_1X20_5080X254X1067P
+DW-20-08-T-S-270
+Connector
+0
+20
+20
+DaisyBio_Mira
 IPD30N08S2L21ATMA1
 IPD30N08S2L21ATMA1-2
 MOSFET (N-Channel)
@@ -55306,6 +55355,34 @@ LED
 0
 2
 2
+DaisyBio_Mira
+NHD0420CWAW3
+NHD-0420CW-AW3-1
+Display
+0
+20
+20
+DaisyBio_Mira
+PEC164120FS0012
+PEC16-4120F-S0012-1
+Undefined or Miscellaneous
+0
+7
+7
+DaisyBio_Mira
+PTS645SL43SMTR92LFS
+PTS645SL43SMTR92 LFS-1
+Switch
+0
+4
+4
+DaisyBio_Mira
+QFP50P1600X1600X160-100N
+LQFP100-1
+Integrated Circuit
+0
+100
+100
 DaisyBio_Mira
 R7465P
 R-746.5P-2
@@ -55342,12 +55419,47 @@ Diode
 2
 2
 DaisyBio_Mira
+SK6812-SIDE-A
+
+
+0
+4
+4
+DaisyBio_Mira
+SOD2512X110N
+SOD323 (SC-76)
+TVS Diode (Bi-directional)
+0
+2
+2
+DaisyBio_Mira
 SOIC127P599X173-8N
 8 SOIC (M)
 Integrated Circuit
 0
 8
 8
+DaisyBio_Mira
+SOT95P240X120-3N
+BAT54
+Diode
+0
+3
+3
+DaisyBio_Mira
+SOT95P280X145-6N
+DBV (R-PDSO-G6)
+Integrated Circuit
+0
+6
+6
+DaisyBio_Mira
+SOT230P700X180-4N
+sot223
+Integrated Circuit
+0
+4
+4
 DaisyBio_Mira
 SOTFL50P160X60-6N
 DRL0006A
@@ -55383,6 +55495,20 @@ Connector
 0
 4
 4
+DaisyBio_Mira
+Untitled
+
+
+0
+4
+4
+DaisyBio_Mira
+WS2812
+WS2812
+LED
+0
+6
+6
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -66017,6 +66143,20 @@ CONN_3220-20-0300-00_CNC
 20
 20
 MEC_Studio
+Castellation_for_3D_1x10_P1.27mm_Vertical
+Through hole straight pin header, 1x20, 1.27mm pitch, single row
+Through hole pin header THT 1x20 1.27mm single row
+0
+20
+10
+MEC_Studio
+Castellation_for_3D_1x20_P1.27mm_Vertical
+Through hole straight pin header, 1x20, 1.27mm pitch, single row
+Through hole pin header THT 1x20 1.27mm single row
+0
+40
+20
+MEC_Studio
 DF40C-30DP-0.4V(51)
 
 DF40C-30DP-0.4V51 
@@ -66030,6 +66170,13 @@ DF40C2.0-20DS-0.4V51
 0
 20
 20
+MEC_Studio
+FrankenROM
+
+
+0
+21
+17
 MEC_Studio
 GCT_USB4520-03-0-A_REVA_corrected
 
@@ -66482,6 +66629,13 @@ MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
 DIN rail adapter universal three M3 clearance holes
+0
+0
+0
+MountingHole
+MountingHole_1.8mm_M1.6
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
 0
 0
@@ -92274,6 +92428,13 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 48
 48
 SteadyIce_footprints
+BAT_BH123A
+
+
+0
+2
+2
+SteadyIce_footprints
 C0201
 
 
@@ -92365,6 +92526,20 @@ NANO-SIM-SMD_SMN-305-ARP7
 10
 10
 SteadyIce_footprints
+PhoenixContact_1984989
+Terminal Block Phoenix PT-1,5-4-3.5-H, 4 pins, pitch 3.5mm, size 14x7.6mm, drill diameter 1.2mm, pad diameter 2.4mm, , script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-4-3.5-H pitch 3.5mm size 14x7.6mm drill 1.2mm pad 2.4mm
+0
+4
+4
+SteadyIce_footprints
+PinSocket_1x04_P2.54mm_Vertical_SMD_notched
+surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x04 2.54mm single row style1 pin1 left
+0
+4
+4
+SteadyIce_footprints
 R0201
 
 
@@ -92441,6 +92616,20 @@ SW-SMD_L4.0-W3.0-LS5.0
 0
 2
 2
+SteadyIce_footprints
+Standoff_SMTSO1630MTJ
+
+
+0
+0
+0
+SteadyIce_footprints
+TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-4-3.5-H, 4 pins, pitch 3.5mm, size 14x7.6mm, drill diameter 1.2mm, pad diameter 2.4mm, , script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-4-3.5-H pitch 3.5mm size 14x7.6mm drill 1.2mm pad 2.4mm
+0
+4
+4
 SteadyIce_footprints
 VQFN-14_L3.5-W3.5-P0.50-BL-EP
 
