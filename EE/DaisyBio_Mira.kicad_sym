@@ -262,7 +262,7 @@
 				)
 			)
 			(pin passive line
-				(at 33.02 0 180)
+				(at 33.02 -1.27 180)
 				(length 5.08)
 				(name "DAT1"
 					(effects
@@ -280,7 +280,7 @@
 				)
 			)
 			(pin passive line
-				(at 33.02 -2.54 180)
+				(at 33.02 -3.81 180)
 				(length 5.08)
 				(name "DAT2"
 					(effects
@@ -298,43 +298,7 @@
 				)
 			)
 			(pin passive line
-				(at 33.02 -5.08 180)
-				(length 5.08)
-				(name "GND_1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 33.02 -7.62 180)
-				(length 5.08)
-				(name "GND_2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 33.02 -10.16 180)
+				(at 33.02 -6.35 180)
 				(length 5.08)
 				(name "CD1"
 					(effects
@@ -343,7 +307,7 @@
 						)
 					)
 				)
-				(number "CD1"
+				(number "CD"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -352,7 +316,7 @@
 				)
 			)
 			(pin passive line
-				(at 33.02 -12.7 180)
+				(at 33.02 -8.89 180)
 				(length 5.08)
 				(name "WP1"
 					(effects
@@ -361,7 +325,44 @@
 						)
 					)
 				)
-				(number "WP1"
+				(number "WP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 33.02 -13.97 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 33.02 -13.97 180)
+				(length 5.08)
+				(hide yes)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "GND"
 					(effects
 						(font
 							(size 1.27 1.27)

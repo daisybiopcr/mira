@@ -67,14 +67,6 @@
         [
           "items_not_allowed|55400000|72400000|9687ec2c-5f99-4ffc-a034-fa2b4ff91c3d|00000000-0000-0000-0000-000000000000",
           ""
-        ],
-        [
-          "unconnected_items|122175000|51980000|96193a4e-fc27-40fa-b991-b51983d5180d|96193a4e-fc27-40fa-b991-b51983d5180d",
-          ""
-        ],
-        [
-          "unconnected_items|136300000|79362500|43da8102-171a-456c-93b1-0043765cb79c|43da8102-171a-456c-93b1-0043765cb79c",
-          ""
         ]
       ],
       "meta": {
@@ -528,10 +520,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "Outputs/20250720 - PCB UI ESP32/gerbers - ESP32 UI/",
+      "pos_files": "Outputs/20250720 - PCB UI ESP32/",
       "specctra_dsn": "",
-      "step": "../../../../../Desktop/PCB UI.step",
+      "step": "Outputs/20250720 - PCB UI ESP32/20250720 - PCB UI ESP32.step",
       "svg": "",
       "vrml": ""
     },

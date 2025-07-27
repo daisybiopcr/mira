@@ -153,4 +153,15 @@
 		(uuid "70e9aa11-8fef-464e-8d30-4a1810378640")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D models/SK6812 4020.step"
+		(offset
+			(xyz 1.5 -1.35 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

@@ -347,7 +347,7 @@
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/3D models/NHD-0420CW.STEP"
 		(offset
-			(xyz -53.25 -67 -67)
+			(xyz -53.25 -67 -65.25)
 		)
 		(scale
 			(xyz 1 1 1)
@@ -365,6 +365,17 @@
 		)
 		(rotate
 			(xyz -0 -0 90)
+		)
+	)
+	(model "${KIPRJMOD}/3D models/500221_SUPPORT DISPLAY OLED - Part 1.step"
+		(offset
+			(xyz -24.25 -14.2 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
 		)
 	)
 )
