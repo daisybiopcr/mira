@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WS2813B-B
+D Intelligent control LED integrated light source, PLCC-6
+K
+F https://datasheet.lcsc.com/szlcsc/Worldsemi-WS2813B-B_C114592.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B3F-3100
+D Grey Plunger Tactile Switch, SPST-NO 50 mA @ 24 V dc 0.9mm
+K
+F http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf
+$ENDCMP
+#
+#End Doc Library

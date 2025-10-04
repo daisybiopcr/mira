@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ABLS2-12.000MHZ-D4Y-T
+#/14001422/726761/2.50/2/2/Crystal or Oscillator
+DEF ABLS2-12.000MHZ-D4Y-T Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "ABLS2-12.000MHZ-D4Y-T" 350 150 50 H V L CNN
+F2 "ABLS" 350 50 50 H I L CNN
+F3 "https://abracon.com/Resonators/abls.pdf" 350 -50 50 H I L CNN
+F4 "HC/49US (AT49) LOW PROFILE SURFACE MOUNT MICROPROCESSOR CRYSTAL" 350 -150 50 H I L CNN "Description"
+F5 "" 350 -250 50 H I L CNN "Height"
+F6 "ABRACON" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "ABLS2-12.000MHZ-D4Y-T" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "815-ABLS2-12-D4Y-T" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS2-12.000MHZ-D4Y-T?qs=LoTOQoUkC8Rn80rn3Dp9%252Bw%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "ABLS2-12.000MHZ-D4Y-T" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/abls2-12.000mhz-d4y-t/abracon?region=europe" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

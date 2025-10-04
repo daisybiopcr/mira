@@ -1,0 +1,43 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DW-20-08-T-S-270
+#/17156426/726761/2.50/20/3/Connector
+DEF DW-20-08-T-S-270 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "DW-20-08-T-S-270" 650 200 50 H V L CNN
+F2 "HDRV20W64P0X254_1X20_5080X254X1067P" 650 100 50 H I L CNN
+F3 "https://suddendocs.samtec.com/catalog_english/dw.pdf?_gl=1*17aw37r*_ga*NjgwNzAzNjcyLjE2MzU0ODc2NDg.*_ga_3KFNZC07WW*MTY2OTg5OTAxOC42My4xLjE2Njk4OTkwNTYuMjIuMC4w" 650 0 50 H I L CNN
+F4 ".100\" Flex Stack, Flexible Board Stacker, .110\" Tail,  contacts per row,  Row" 650 -100 50 H I L CNN "Description"
+F5 "10.67" 650 -200 50 H I L CNN "Height"
+F6 "SAMTEC" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DW-20-08-T-S-270" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+X 9 9 0 -800 200 R 50 50 0 0 P
+X 10 10 0 -900 200 R 50 50 0 0 P
+X 11 11 0 -1000 200 R 50 50 0 0 P
+X 12 12 0 -1100 200 R 50 50 0 0 P
+X 13 13 0 -1200 200 R 50 50 0 0 P
+X 14 14 0 -1300 200 R 50 50 0 0 P
+X 15 15 0 -1400 200 R 50 50 0 0 P
+X 16 16 0 -1500 200 R 50 50 0 0 P
+X 17 17 0 -1600 200 R 50 50 0 0 P
+X 18 18 0 -1700 200 R 50 50 0 0 P
+X 19 19 0 -1800 200 R 50 50 0 0 P
+X 20 20 0 -1900 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -2000 200 -2000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

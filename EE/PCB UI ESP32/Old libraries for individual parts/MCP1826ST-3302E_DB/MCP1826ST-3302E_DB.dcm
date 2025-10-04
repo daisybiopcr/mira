@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1826ST-3302E_DB
+D MICROCHIP - MCP1826ST-3302E/DB - LDO, AEC-Q100, FIXED, 3.3V, 1A, SOT-223
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf
+$ENDCMP
+#
+#End Doc Library
